@@ -1,0 +1,7 @@
+{
+    "virtualenvPath": "/Users/$USER/.virtualenvs/damiankrawczyk.com/bin",
+    "python.pythonPath": "/Users/$USER/.virtualenvs/damiankrawczyk.com/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "restructuredtext.confPath": "${workspaceFolder}/docs"
+}
