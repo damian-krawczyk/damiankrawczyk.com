@@ -1,3 +1,4 @@
+import sphinx_fontawesome
 # Configuration file for the Sphinx documentation builder.
 #
 # This file only contains a selection of the most common options. For a full
@@ -30,7 +31,7 @@ release = '0.0.1'
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = [
+extensions = ["sphinx_fontawesome",
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -65,3 +66,6 @@ html_theme_options = {
     },
     "navigation_with_keys": True,
 }
+html_css_files = [
+    "css/font-awesome.css",
+]
