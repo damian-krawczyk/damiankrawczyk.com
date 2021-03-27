@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Damian Krawczyk'
-copyright = '2020, Damian Krawczyk'
+copyright = '2021, Damian Krawczyk'
 author = 'Damian Krawczyk'
 
 # The full version, including alpha/beta/rc tags
