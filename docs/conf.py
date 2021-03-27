@@ -67,5 +67,6 @@ html_theme_options = {
     "navigation_with_keys": True,
 }
 html_css_files = [
+    "css/custom.css",
     "css/font-awesome.css",
 ]
