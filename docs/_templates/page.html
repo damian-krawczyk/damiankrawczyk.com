@@ -83,6 +83,12 @@
         </div>
 
         <div class="related-information">
+          {%- if show_source and has_source and sourcename %}
+            <a class="muted-link" href="{{ pathto('_sources/' + sourcename, true)|e }}" rel="nofollow">
+              {{ _('Source') }}
+            </br>
+            </a>
+          {%- endif %}
           {%- if show_copyright %}
             {%- if hasdoc('copyright') %}
               {% trans path=pathto('copyright'), copyright=copyright|e -%}
@@ -109,14 +115,19 @@
               <a href="https://github.com/pradyunsg/furo">Furo theme</a>.
             {%- endtrans %}
           {%- endif %}
-          {%- if show_source and has_source and sourcename %}
-            |
-            <a class="muted-link" href="{{ pathto('_sources/' + sourcename, true)|e }}"
-               rel="nofollow">
-              {{ _('Show Source') }}
-            </a>
-          {%- endif %}
-        </div>
+        <table style="width:250px; line-height:1em;" >
+          <tr>
+          <td>
+              <a class="fa fa-linkedin-square fa-2x fa-icon" aria-hidden="true" target="_blank" href="https://www.linkedin.com/in/damian-krawczyk-in" rel="me on LinkedIn"></a>
+          </td>
+          <td>
+              <a class="fa fa-github fa-2x fa-icon" aria-hidden="true" target="_blank" href="https://github.com/damian-krawczyk" rel="me on GitHub"></a>
+          </td> 
+          <td>
+              <a class="fa fa-envelope fa-2x fa-icon" aria-hidden="true" href="mailto:damian@damiankrawczyk.com?subject=Initial%20email&body=Hi%20Damian,%0AI'm%20writing%20to%20you%20regarding..." rel="my e-mail"></a>
+          </td>
+          </tr>
+        </table>
         {% endblock footer %}
       </footer>
     </div>
