@@ -66,6 +66,7 @@ html_theme_options = {
     },
     "navigation_with_keys": True,
 }
+html_logo = "_static/img/pic.png"
 html_css_files = [
     "css/custom.css",
     "css/font-awesome.css",

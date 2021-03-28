@@ -41,3 +41,15 @@ a.fa-icon:link {
   left: 50%; 
   margin-left: -60px; /* Use half of the width (120/2 = 60), to center the tooltip */
 }
+
+div.profile-pic {
+  margin-top: 1em;
+}
+
+div.profile-pic img {
+  border-radius: 500px;
+  width: 80%;
+  max-width: 190px;
+  margin: 0 auto;
+  display: block;
+}
