@@ -70,3 +70,13 @@ html_css_files = [
     "css/custom.css",
     "css/font-awesome.css",
 ]
+
+rst_prolog =  sphinx_fontawesome.prolog + """
+.. General:
+.. |me| replace:: :abbr:`me (Damian Krawczyk)`
+
+.. |GUI| replace:: :abbr:`GUI (Graphical User Interface)`
+.. |csv| replace:: :abbr:`csv (comma-separated value)`
+.. |xlsx| replace:: :abbr:`xlsx (Microsoft Excel Open XML Spreadsheet)`
+.. |VA| replace:: :abbr:`VA (Vulnerability Assessment)`
+"""
