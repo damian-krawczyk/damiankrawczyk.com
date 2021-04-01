@@ -20,14 +20,12 @@ possible I'm trying to release my solutions as **Open Source** [3]_
 or **Inner Source** [4]_. I hope that the solutions posted here will prove to be handy for you as well.
 
  
-projects
---------
+.. rubric:: projects
 
 Read more about my :doc:`/projects/index`.
 
   
-contact
--------
+.. rubric:: contact
 
 Feel free to :doc:`/contact/index` with me.
 
