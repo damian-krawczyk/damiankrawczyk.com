@@ -8,8 +8,8 @@ projects
 
    */*
 
-LimberDuck.org
---------------
+.. rubric:: LimberDuck.org
+
 
 .. image:: https://limberduck.org/en/latest/_images/LimberDuck-logo.png
    :alt: LimberDuck logo

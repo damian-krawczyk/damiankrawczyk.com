@@ -34,11 +34,11 @@ focus on data analysis.
       - https://github.com/limberduck
 
 
-Tools
------
+.. rubric:: Tools
 
-nessus-file-analyzer
-++++++++++++++++++++
+
+.. rubric:: nessus-file-analyzer
+
 
 .. image:: https://limberduck.org/en/latest/_images/LimberDuck-nessus-file-analyzer-logo.png
    :alt: LimberDuck nessus-file-analyzer logo
@@ -54,8 +54,8 @@ used for |VA| [2]_ process.
 
 ----
 
-nessus-file-reader
-++++++++++++++++++
+.. rubric:: nessus-file-reader
+
 
 .. image:: https://limberduck.org/en/latest/_images/LimberDuck-nessus-file-reader-logo.png
    :alt: LimberDuck nessus-file-reader logo
@@ -71,8 +71,8 @@ used for |VA| [2]_ process.
 
 ----
 
-converter-csv
-++++++++++++++++++++
+.. rubric:: converter-csv
+
 
 .. image:: https://limberduck.org/en/latest/_images/LimberDuck-converter-csv-logo.png
    :alt: LimberDuck converter-csv logo

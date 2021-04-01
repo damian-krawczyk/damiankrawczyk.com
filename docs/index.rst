@@ -39,7 +39,7 @@ Feel free to :doc:`/contact/index` with me.
 .. [4] :term:`Inner Source` 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :hidden:
 
    projects/index
