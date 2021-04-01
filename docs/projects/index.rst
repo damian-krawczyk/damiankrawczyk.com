@@ -1,13 +1,6 @@
 projects
 ========
 
-.. toctree::
-   :maxdepth: 2
-   :glob:
-   :hidden:
-
-   */*
-
 .. rubric:: LimberDuck.org
 
 
@@ -29,3 +22,10 @@ focus on data analysis.
 .. rubric:: Footnotes
 
 .. [1] read more about :term:`Open Source` in glossary
+
+.. toctree::
+   :maxdepth: 2
+   :glob:
+   :hidden:
+
+   */*

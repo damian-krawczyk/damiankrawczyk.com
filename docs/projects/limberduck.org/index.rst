@@ -1,15 +1,6 @@
 LimberDuck.org
 ==============
 
-.. toctree::
-   :maxdepth: 2
-   :glob:
-   :hidden:
-
-   nessus-file-analyzer/index
-   nessus-file-reader/index
-   converter-csv/index
-
 |stars_from_users|
 
 .. image:: https://limberduck.org/en/latest/_images/LimberDuck-logo.png
@@ -95,3 +86,12 @@ keeping your operational memory usage at a low level.
 
 .. [1] read more about :term:`Open Source` in glossary
 .. [2] read more about :term:`Vulnerability Assessment` in glossary
+
+.. toctree::
+   :maxdepth: 2
+   :glob:
+   :hidden:
+
+   nessus-file-analyzer/index
+   nessus-file-reader/index
+   converter-csv/index
