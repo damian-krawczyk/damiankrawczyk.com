@@ -1,0 +1,84 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021, Damian Krawczyk
+# This file is distributed under the same license as the Damian Krawczyk
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Damian Krawczyk \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-08 20:54+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.0\n"
+
+#: ../../index.rst:7 0a7096a79d8c43b1a907b5660a5fc112
+msgid "about me"
+msgstr ""
+
+#: ../../index.rst:9 b76b2f7fe1604b24a25ed4586e173194
+msgid ""
+"I'm an enthusiast of **automation** in both my private and professional "
+"life. The main reason for that is TIME - one of the most precious thing "
+"we have. Contemporary technology let's us design and implement user-"
+"friendly solutions that can significantly enhance the way we live or "
+"work. At the base of these solutions is DATA - a subsequent treasure that"
+" requires appropriate protection. This leads to my other biggest interest"
+" - **Information Security** [1]_ which should be a native part of every "
+"product at the early stage of its development, and properly maintained "
+"throughout its whole life cycle. I have a pleasure to do both working as "
+"a **Security Engineer** and **DevOps Engineer** being responsible for "
+"maintenance and improvement of **Vulnerability Assessment** [2]_ process "
+"through majority of my career."
+msgstr ""
+
+#: ../../index.rst:18 fa9f5dbc94a64ac8a83801c56fb300d9
+msgid ""
+"I'm a promoter of open way of working. From coding point of view it means"
+" that whenever its' possible I'm trying to release my solutions as **Open"
+" Source** [3]_ or **Inner Source** [4]_. I hope that the solutions posted"
+" here will prove to be handy for you as well."
+msgstr ""
+
+#: ../../index.rst:24 0694dced052e46649b3e48035aaaf550
+msgid "projects"
+msgstr ""
+
+#: ../../index.rst:25 926f6d555813425987eeec0d03639a5d
+msgid "Read more about my :doc:`/projects/index`."
+msgstr ""
+
+#: ../../index.rst:29 b42050986c604434970eb89ca9a9d0cf
+msgid "contact"
+msgstr ""
+
+#: ../../index.rst:30 750eda8fccbd41fd94bcfa308e3454df
+msgid "Feel free to :doc:`/contact/index` with me."
+msgstr ""
+
+#: ../../index.rst:35 d05ecade4d004d138f177d10c05195d9
+msgid "Footnotes"
+msgstr ""
+
+#: ../../index.rst:36 613b0d8cad844b1eb5845509bf1eed3d
+msgid ":term:`Information Security`"
+msgstr ""
+
+#: ../../index.rst:37 74df9dfa41a64efab50224c98407f77b
+msgid ":term:`Vulnerability Assessment`"
+msgstr ""
+
+#: ../../index.rst:38 a0a4feb74297436d84d0af26c035348b
+msgid ":term:`Open Source`"
+msgstr ""
+
+#: ../../index.rst:39 254b18eda5924c629556837759e48a62
+msgid ":term:`Inner Source`"
+msgstr ""
+

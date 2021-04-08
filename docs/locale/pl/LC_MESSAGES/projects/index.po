@@ -1,0 +1,66 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021, Damian Krawczyk
+# This file is distributed under the same license as the Damian Krawczyk
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Damian Krawczyk \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-08 20:54+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.0\n"
+
+#: ../../projects/index.rst:2 0d891a4aa82d42dab2f28d9371355865
+msgid "projects"
+msgstr ""
+
+#: ../../projects/index.rst:6 758d91fe80184529a228f270bbda610d
+msgid "LimberDuck.org"
+msgstr ""
+
+#: ../../projects/index.rst:13 e35136d0c5984c769a6c47a3350e2880
+msgid ""
+"**LimberDuck** (pronounced ˈlɪm.bɚ dʌk) is a project initiated on "
+"November 26, 2018. The main goal of this project is to create an array of"
+" free and Open Source [1]_ tools dedicated for Security Engineers who "
+"wants to automate their work, decrease their workload and focus on data "
+"analysis."
+msgstr ""
+
+#: ../../projects/index.rst:18 9c9a03d0d0c44a2588651c08d22ae7af
+msgid ":doc:`read more <limberduck.org/index>`"
+msgstr ""
+
+#: ../../projects/index.rst:23 383fa83129e0468888c33d7798b909b3
+msgid "GOV PL Info"
+msgstr ""
+
+#: ../../projects/index.rst:24 acd4621d9f9a4f6fa689fe4cc03a4092
+msgid ""
+"**GOV PL Info**  is a project initiated on April 1, 2021. The main goal "
+"of this project is to provide informations send by Polish Government in a"
+" form of mobile notifications, by use of `Telegram Channels "
+"<https://telegram.org/tour/channels>`_ , in both polish and english "
+"languages."
+msgstr ""
+
+#: ../../projects/index.rst:30 45784aad72a04c4588c895ce61d64397
+msgid ":doc:`read more <gov-pl-info/index>`"
+msgstr ""
+
+#: ../../projects/index.rst:35 97b91c3556154fb3b57b93eb8aa2c30f
+msgid "Footnotes"
+msgstr ""
+
+#: ../../projects/index.rst:36 67c88dcc0a5d4a798044cfe5d44aa44f
+msgid "read more about :term:`Open Source` in glossary"
+msgstr ""
+

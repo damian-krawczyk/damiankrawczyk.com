@@ -1,0 +1,118 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021, Damian Krawczyk
+# This file is distributed under the same license as the Damian Krawczyk
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Damian Krawczyk \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-08 20:54+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.0\n"
+
+#: ../../projects/limberduck.org/index.rst:2 4ba1bf3cb23a4ec4bec016a6d1d33cf1
+msgid "LimberDuck.org"
+msgstr ""
+
+#: ../../projects/limberduck.org/index.rst:4 10da2bfd65604f34823a444228bb4cf5
+msgid "|stars_from_users|"
+msgstr ""
+
+#: ../../projects/limberduck.org/index.rst:12 9f10bb85096c422da97e6c43cab6db08
+msgid ""
+"**LimberDuck** (pronounced ˈlɪm.bɚ dʌk) is a project initiated on "
+"November 26, 2018. The main goal of this project is to create an array of"
+" free and Open Source [1]_ tools dedicated for Security Engineers who "
+"wants to automate their work, decrease their workload and focus on data "
+"analysis."
+msgstr ""
+
+#: ../../projects/limberduck.org/index.rst:17 9f0f534d660347daa2f95d0c0177bcab
+msgid "LimberDuck project details"
+msgstr ""
+
+#: ../../projects/limberduck.org/index.rst:21 34f1e6ad82564b4c94e4fe9c89b6bd88
+msgid "main page"
+msgstr ""
+
+#: ../../projects/limberduck.org/index.rst:22 4dfcfcaa707f4007ae8519ca4eff6fee
+msgid "https://limberduck.org"
+msgstr ""
+
+#: ../../projects/limberduck.org/index.rst:24 5965f2bfc89c4a2b815dc61218777022
+msgid "GitHub page"
+msgstr ""
+
+#: ../../projects/limberduck.org/index.rst:25 71c4d0bc8fab4d859603324f68c7121b
+msgid "https://github.com/limberduck"
+msgstr ""
+
+#: ../../projects/limberduck.org/index.rst:30 4490d673b5e44e67afd08f58ec116cd3
+msgid "Tools"
+msgstr ""
+
+#: ../../projects/limberduck.org/index.rst:33 b4fd15af30bd4ab0b4c58a2fcde0d665
+msgid "nessus-file-analyzer"
+msgstr ""
+
+#: ../../projects/limberduck.org/index.rst:40 2cf8e57ce3124c8787c567c6535c6d15
+msgid ""
+"This is a |GUI| tool that allows you to analyze nessus files containing "
+"the results of scans performed by using *Nessus* or *Tenable.sc* by © "
+"Tenable, Inc. used for |VA| [2]_ process."
+msgstr ""
+
+#: ../../projects/limberduck.org/index.rst:44 f5ddd2424458494bb256251336292581
+msgid ":doc:`read more <nessus-file-analyzer/index>`"
+msgstr ""
+
+#: ../../projects/limberduck.org/index.rst:50 75f4859951d940a2a2c7cf6278e6a8f4
+msgid "nessus-file-reader"
+msgstr ""
+
+#: ../../projects/limberduck.org/index.rst:57 b3cac8ae2d8e4e2a8dcdab56063bc85f
+msgid ""
+"This is a python module that allows you to quickly parse nessus files "
+"containing the results of scans performed by using *Nessus* or "
+"*Tenable.sc* by © Tenable, Inc. used for |VA| [2]_ process."
+msgstr ""
+
+#: ../../projects/limberduck.org/index.rst:61 9d4dd44f93a24a56b81da3ebb248ce9a
+msgid ":doc:`read more <nessus-file-reader/index>`"
+msgstr ""
+
+#: ../../projects/limberduck.org/index.rst:67 85d6c308ef3d42a590d5ac32ce40dd7c
+msgid "converter-csv"
+msgstr ""
+
+#: ../../projects/limberduck.org/index.rst:74 42a2b2da056b4b288b77d24d718290f8
+msgid ""
+"This is a |GUI| tool that allows you to convert multiple large |csv| "
+"files to |xlsx| files keeping your operational memory usage at a low "
+"level."
+msgstr ""
+
+#: ../../projects/limberduck.org/index.rst:77 39309045405b478bb4f69c7f2d1322c3
+msgid ":doc:`read more <converter-csv/index>`"
+msgstr ""
+
+#: ../../projects/limberduck.org/index.rst:86 ef71a981f84a46dd952145ce876606bc
+msgid "Footnotes"
+msgstr ""
+
+#: ../../projects/limberduck.org/index.rst:87 ad388666686b49eb8da0253a47086394
+msgid "read more about :term:`Open Source` in glossary"
+msgstr ""
+
+#: ../../projects/limberduck.org/index.rst:88 bf9b0408a8f84943a955a7a17a6d87de
+msgid "read more about :term:`Vulnerability Assessment` in glossary"
+msgstr ""
+

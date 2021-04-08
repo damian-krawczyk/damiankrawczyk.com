@@ -1,0 +1,49 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021, Damian Krawczyk
+# This file is distributed under the same license as the Damian Krawczyk
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Damian Krawczyk \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-08 20:54+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.0\n"
+
+#: ../../contact/index.rst:2 33d92e1a09eb49299f6386066ceabe54
+msgid "contact"
+msgstr ""
+
+#: ../../contact/index.rst:4 b3c48fb61d81417580630c99406cd357
+msgid ""
+":fa:`linkedin-square fa` `linkedin.com/in/damian-krawczyk-in "
+"<https://www.linkedin.com/in/damian-krawczyk-in>`_"
+msgstr ""
+
+#: ../../contact/index.rst:6 4cbac444779a41419037949dd04ebc37
+msgid ""
+":fa:`github fa` `github.com/damian-krawczyk <https://github.com/damian-"
+"krawczyk>`_"
+msgstr ""
+
+#: ../../contact/index.rst:10 261154bb2a894d7d89105b129bf8770b
+#, python-format
+msgid ""
+":fa:`envelope fa` `damian@damiankrawczyk.com "
+"<mailto:damian@damiankrawczyk.com?subject=Initial%20email&body=Hi%20Damian%2C%0AI%27m%20writing%20to%20you%20regarding%2E%2E%2E>`_"
+msgstr ""
+
+#: ../../contact/index.rst:12 d6e021db99794d85963025f3f4106c1d
+msgid ""
+":fa:`map-marker fa`  `Katowice <https://goo.gl/maps/G7VXL5yb8S4bzFRk9>`_,"
+" `Poland <https://goo.gl/maps/CRszhNtHTtUFguUz8>`_ / remote"
+msgstr ""
+

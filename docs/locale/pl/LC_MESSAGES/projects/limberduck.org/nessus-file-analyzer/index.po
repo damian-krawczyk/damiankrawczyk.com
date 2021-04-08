@@ -1,0 +1,92 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021, Damian Krawczyk
+# This file is distributed under the same license as the Damian Krawczyk
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Damian Krawczyk \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-08 20:54+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.0\n"
+
+#: ../../projects/limberduck.org/nessus-file-analyzer/index.rst:2
+#: ac7b73b09a4244ea8a5ad49582087e9b
+msgid "nessus-file-analyzer"
+msgstr ""
+
+#: ../../projects/limberduck.org/nessus-file-analyzer/index.rst:4
+#: 69aefc99464c4634890967589b00702a
+msgid "|latest_release| |stars_from_users| |supported_platform| |license|"
+msgstr ""
+
+#: ../../projects/limberduck.org/nessus-file-analyzer/index.rst:12
+#: 25dc2d7a42f14d38aa7deca1bae3369a
+msgid ""
+"This is a |GUI| tool which enables you to parse multiple nessus files "
+"containing the results of scans performed by using *Nessus* or "
+"*Tenable.sc* by © Tenable, Inc. used for |VA| [1]_ process. Parsed scan "
+"results are exported to a Microsoft Excel Workbook for effortless "
+"analysis."
+msgstr ""
+
+#: ../../projects/limberduck.org/nessus-file-analyzer/index.rst:17
+#: f8021e7bf2d9491c9f60bbe9269ccb74
+msgid ""
+"Operational memory usage will be kept low while parsing even the largest "
+"of files. You can run it on your favorite operating system, whether it is"
+" Windows, macOS or GNU Linux. As a parsing result, you will receive "
+"spreadsheets with a summary view of the whole scan and/or all reported "
+"hosts. You will also be able to generate spreadsheets with a detailed "
+"view of all reported vulnerabilities [2]_ and/or noncompliance. It's free"
+" and Open Source [3]_ tool."
+msgstr ""
+
+#: ../../projects/limberduck.org/nessus-file-analyzer/index.rst:24
+#: f8ab88501c1e48cd87f889313022c748
+msgid "nessus-file-analyzer details"
+msgstr ""
+
+#: ../../projects/limberduck.org/nessus-file-analyzer/index.rst:28
+#: 09d27e1d3ed34e738c2a6a41d981b6b3
+msgid "main page"
+msgstr ""
+
+#: ../../projects/limberduck.org/nessus-file-analyzer/index.rst:29
+#: 46926d1f7bc24d8baf2303e33f25dd12
+msgid "https://limberduck.org/en/latest/nessus-file-analyzer"
+msgstr ""
+
+#: ../../projects/limberduck.org/nessus-file-analyzer/index.rst:33
+#: 94458be625c145eb80e5d01bcc5dab4c
+msgid "technology stack"
+msgstr ""
+
+#: ../../projects/limberduck.org/nessus-file-analyzer/index.rst:53
+#: f0edb6147b604c2087b825a167a5676a
+msgid "Footnotes"
+msgstr ""
+
+#: ../../projects/limberduck.org/nessus-file-analyzer/index.rst:54
+#: 28078ec62c5143f9816e4d39911575c2
+msgid "read more about :term:`Vulnerability Assessment` in glossary"
+msgstr ""
+
+#: ../../projects/limberduck.org/nessus-file-analyzer/index.rst:55
+#: fcab2dce09864ea3ac605979a4e5a889
+msgid "read more about :term:`vulnerability` in glossary"
+msgstr ""
+
+#: ../../projects/limberduck.org/nessus-file-analyzer/index.rst:56
+#: 5de24a09eb3248eb802a3d7b15dc3963
+msgid "read more about :term:`Open Source` in glossary"
+msgstr ""
+

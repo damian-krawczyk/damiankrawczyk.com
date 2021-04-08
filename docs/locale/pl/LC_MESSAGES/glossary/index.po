@@ -1,0 +1,127 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021, Damian Krawczyk
+# This file is distributed under the same license as the Damian Krawczyk
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Damian Krawczyk \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-08 20:54+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.0\n"
+
+#: ../../glossary/index.rst:2 8bbacc1249f84dcc89b69ee878943408
+msgid "glossary"
+msgstr ""
+
+#: ../../glossary/index.rst:5 623070d5ca4a4b66b5a5adfef0ac43fb
+msgid "Open Source"
+msgstr ""
+
+#: ../../glossary/index.rst:7 06d2934224154559bdde4e9cf1b849e3
+msgid ""
+"Generally, Open Source software is software that can be freely accessed, "
+"used, changed, and shared (in modified or unmodified form) by anyone. "
+"Open source software is made by many people, and distributed under "
+"licenses that comply with the `Open Source Definition "
+"<https://opensource.org/osd>`_."
+msgstr ""
+
+#: ../../glossary/index.rst:12 d42327a6432e4f63b246eb7149c20e7b
+msgid "*Source:* https://opensource.org/faq#osd"
+msgstr ""
+
+#: ../../glossary/index.rst:13 6558538d5eed449587d9b6d8e44b1cee
+msgid "Information Security"
+msgstr ""
+
+#: ../../glossary/index.rst:15 4ba48f46618840b8a432b8f6866c7298
+msgid ""
+"Information Security refers to the processes and methodologies which are "
+"designed and implemented to protect print, electronic, or any other form "
+"of confidential, private and sensitive information or data from "
+"unauthorized access, use, misuse, disclosure, destruction, modification, "
+"or disruption."
+msgstr ""
+
+#: ../../glossary/index.rst:20 e1d870df1c0d471e99fd1d4a4ff6d79d
+msgid "*Source:* https://www.sans.org/information-security"
+msgstr ""
+
+#: ../../glossary/index.rst:21 eed798d7fbad4083b28225e342aa594b
+msgid "Inner Source"
+msgstr ""
+
+#: ../../glossary/index.rst:23 6c78848b58264bf38a65f6248e602951
+msgid ""
+"InnerSource takes the lessons learned from developing open source "
+"software and applies them to the way companies develop software "
+"internally. As developers have become accustomed to working on world "
+"class open source software, there is a strong desire to bring those "
+"practices back inside the firewall and apply them to software that "
+"companies may be reluctant to release. For companies building mostly "
+"closed source software, InnerSource can be a great tool to help break "
+"down silos, encourage internal collaboration, accelerate new engineer on-"
+"boarding, and identify opportunities to contribute software back to the "
+"open source world."
+msgstr ""
+
+#: ../../glossary/index.rst:32 724dbd2bb5ee4d5ba79095d5aa69e776
+msgid "*Source:* https://innersourcecommons.org"
+msgstr ""
+
+#: ../../glossary/index.rst:33 300c3704dc2948a888bdc7b68f99cdca
+msgid "vulnerability"
+msgstr ""
+
+#: ../../glossary/index.rst:35 9f3b6786ee2540b9bda2b6df4567a934
+msgid ""
+"A vulnerability /ˌvʌlnərəˈbɪləti/ is a weakness in a system that allows a"
+" threat source to compromise its security. It can be a software, "
+"hardware, procedural, or human weakness that can be exploited. A "
+"vulnerability may be a service running on a server, unpatched "
+"applications or operating systems, an unrestricted wireless access point,"
+" an open port on a firewall, lax physical security that allows anyone to "
+"enter a server room, or unenforced password management on servers and "
+"workstations."
+msgstr ""
+
+#: ../../glossary/index.rst:42 afbd974d833d41a4828251ad71b032ed
+msgid ""
+"*Source:* *CISSP All-in-One Exam Guide, 8th Edition, 2018, by Shon "
+"Harris, Fernando Maymi, page 6*"
+msgstr ""
+
+#: ../../glossary/index.rst:43 923b28b242ea4099bc541293d0c85ecf
+msgid "VA"
+msgstr ""
+
+#: ../../glossary/index.rst:44 f5b4f58b381149b4a28f1b293cc1e0f3
+msgid "Vulnerability Assessment"
+msgstr ""
+
+#: ../../glossary/index.rst:46 63ff0dd6271f4c618c5c0e1117d1ac8f
+msgid ""
+"A vulnerability assessment identifies a wide range of vulnerabilities in "
+"the environment. This is commonly carried out through a scanning tool. "
+"The idea is to identify any vulnerabilities that potentially could be "
+"used to compromise the security of our systems. By contrast, in a "
+"penetration test, the security professional exploits one or more "
+"vulnerabilities to prove to the customer (or your boss) that a hacker can"
+" actually gain access to company resources."
+msgstr ""
+
+#: ../../glossary/index.rst:53 a961d484f8d04f7aac3bd04b42b57e5e
+msgid ""
+"*Source:* *CISSP All-in-One Exam Guide, 8th Edition, 2018, by Shon "
+"Harris, Fernando Maymi, page 878*"
+msgstr ""
+

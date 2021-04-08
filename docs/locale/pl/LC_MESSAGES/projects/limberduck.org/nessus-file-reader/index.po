@@ -1,0 +1,80 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021, Damian Krawczyk
+# This file is distributed under the same license as the Damian Krawczyk
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Damian Krawczyk \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-08 20:54+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.0\n"
+
+#: ../../projects/limberduck.org/nessus-file-reader/index.rst:2
+#: 634a22fa80174809bee1c404fb56de13
+msgid "nessus-file-reader"
+msgstr ""
+
+#: ../../projects/limberduck.org/nessus-file-reader/index.rst:4
+#: e0a3cb5e61fa43c3bf6efbbaa641379c
+msgid "|latest_release| |stars_from_users| |supported_platform| |license|"
+msgstr ""
+
+#: ../../projects/limberduck.org/nessus-file-reader/index.rst:12
+#: 39146c6693454a7bb09f3037e6448cda
+msgid ""
+"This is a python module which enables you to quickly parse nessus files "
+"containing the results of scans performed by using *Nessus* or "
+"*Tenable.sc* by © Tenable, Inc. used for |VA| [1]_ process. This module "
+"will let you get data through functions grouped into categories like "
+"file, scan, host, and plugin to get specific information from the "
+"provided nessus scan files e.g. file size, report name, report hosts "
+"names, the number of target hosts, the number of hosts scanned with "
+"credentialed checks, the number of reported plugins per Risk Factor, "
+"exact host scan times, outputs of particular plugins and a lot more. It's"
+" free and Open Source [2]_ tool."
+msgstr ""
+
+#: ../../projects/limberduck.org/nessus-file-reader/index.rst:21
+#: 82969ce3803e407392f1669b6eba414b
+msgid "nessus-file-reader details"
+msgstr ""
+
+#: ../../projects/limberduck.org/nessus-file-reader/index.rst:25
+#: 44c27d7cc3e943c283d5abe082ba134a
+msgid "main page"
+msgstr ""
+
+#: ../../projects/limberduck.org/nessus-file-reader/index.rst:26
+#: 69aa2850318c4d93a42701b17889254f
+msgid "https://limberduck.org/en/latest/nessus-file-reader"
+msgstr ""
+
+#: ../../projects/limberduck.org/nessus-file-reader/index.rst:30
+#: fdd5c5ce2f26410d88f5e9d9618e8734
+msgid "technology stack"
+msgstr ""
+
+#: ../../projects/limberduck.org/nessus-file-reader/index.rst:54
+#: ff5153ca19d541ed9b08031d147716eb
+msgid "Footnotes"
+msgstr ""
+
+#: ../../projects/limberduck.org/nessus-file-reader/index.rst:55
+#: 8180e3c85cd34cda8d42e5d7191dacdb
+msgid "read more about :term:`Vulnerability Assessment` in glossary"
+msgstr ""
+
+#: ../../projects/limberduck.org/nessus-file-reader/index.rst:56
+#: aa4cfa7c8edd41ddb8dd88aa4a204272
+msgid "read more about :term:`Open Source` in glossary"
+msgstr ""
+
