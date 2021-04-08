@@ -34,20 +34,31 @@ msgid ""
 "english language by use of Google Translate service which should make a "
 "life of foreigners in Poland a little bit easier."
 msgstr ""
+"**GOV PL Info** jest projektem zainicjowanym 1 kwietnia 2021. Głównym celem"
+" tego projektu jest dostarczenie informacji wysyłanych przez Rząd Polski w "
+"formie notyfikacji mobilnych. Można to było osiągnąć w prosty sposób poprzez wykorzystanie "
+"`Kanałów aplikacji Telegram <https://telegram.org/tour/channels>`_, które mogą posiadać "
+"nielimitowaną ilość subskrybentów. Ponieważ źródło informacji jest "
+"udostępniane w języku polskim, wszystkie notyfikacje są również wysyłane w języku polskim, "
+"dodatkowo jednak są one w automatyczny sposób tłumaczone na "
+"język angielski przy wykorzystaniu usługi Translatora Google co powinno sprawić, że "
+"życie obcokrajowców w Polsce stanie się odrobinę łatwiejsze."
 
 #: ../../projects/gov-pl-info/index.rst:15 63813b3deac34deea824c69a5ceb534f
 msgid ""
 "Check :doc:`list of available channels <channels/index>` and subscribe "
 "for thread which is most interesting for you."
 msgstr ""
+"Sprawdź :doc:`listę dostępnych kanałów <channels/index>` i zasubskrybuj "
+"wątek, który najbardziej Cię interesuje."
 
 #: ../../projects/gov-pl-info/index.rst:18 ff7afe6542ac4461a6f49eba0bab8e22
 msgid "GOV PL Info - technical details"
-msgstr ""
+msgstr "GOV PL Info - szczegóły techniczne"
 
 #: ../../projects/gov-pl-info/index.rst:22 ac9de80ec6e34128bc4e0f3ee9ed9c87
 msgid "GitHub source code"
-msgstr ""
+msgstr "GitHub kod źródłowy"
 
 #: ../../projects/gov-pl-info/index.rst:23 dde23438b89f44e7ab411232c5f180dc
 msgid "https://github.com/damian-krawczyk/gov-pl-info"
@@ -63,29 +74,29 @@ msgstr ""
 
 #: ../../projects/gov-pl-info/index.rst:29 fcc1d9aa9aaa4e659097bda5dd1e101d
 msgid "technology stack"
-msgstr ""
+msgstr "stack technologiczny"
 
 #: ../../projects/gov-pl-info/index.rst:52 6ec017dec8bb4ac4b0701fc772b5d496
 msgid "contact"
-msgstr ""
+msgstr "kontakt"
 
 #: ../../projects/gov-pl-info/index.rst:55 0c7e9e153d474830a8364bcbf36690b0
 msgid "Did you face any problem with this solution?"
-msgstr ""
+msgstr "Napotkałeś jakikolwiek problem korzystając z tego rozwiązania?"
 
 #: ../../projects/gov-pl-info/index.rst:57 6a381bf2ae7245eaaeef40bf02979094
 msgid "Did you notice any error?"
-msgstr ""
+msgstr "Zauważyłeś błąd?"
 
 #: ../../projects/gov-pl-info/index.rst:59 acc0542f0517425a8bbc7f3dd18bb292
 msgid "Would you like me to create similar solution suited to your exact needs?"
-msgstr ""
+msgstr "Chciałbyś, żebym stworzył dla Ciebie podobne rozwiązanie doposawane do Twoich potrzeb?"
 
 #: ../../projects/gov-pl-info/index.rst:61 9589f25eeac24dc58d50f6f9cf4375cc
 msgid "**Let me know about it!**"
-msgstr ""
+msgstr "**Daj mi o tym znać!**"
 
 #: ../../projects/gov-pl-info/index.rst:63 8f9f291f8de84455936fc47875cef025
 msgid ":doc:`CONTACT DETAILS <../../contact/index>`"
-msgstr ""
+msgstr ":doc:`SZCZEGÓŁY KONTAKTU <../../contact/index>`"
 
