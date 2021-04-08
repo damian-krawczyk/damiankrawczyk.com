@@ -20,11 +20,11 @@ msgstr ""
 
 #: ../../_templates/page.html:61 766ee6ce7e4d4c08b79a50c0d592b789
 msgid "Next"
-msgstr ""
+msgstr "Następna"
 
 #: ../../_templates/page.html:73 472f3877a92f4f80821f45e869cab14e
 msgid "Previous"
-msgstr ""
+msgstr "Poprzednia"
 
 #: ../../_templates/page.html:76 ec80ed2b776b4969a9f9c48c9770db57
 msgid "Home"
