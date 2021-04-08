@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../../contact/index.rst:2 33d92e1a09eb49299f6386066ceabe54
 msgid "contact"
-msgstr ""
+msgstr "kontakt"
 
 #: ../../contact/index.rst:4 b3c48fb61d81417580630c99406cd357
 msgid ""
@@ -40,10 +40,14 @@ msgid ""
 ":fa:`envelope fa` `damian@damiankrawczyk.com "
 "<mailto:damian@damiankrawczyk.com?subject=Initial%20email&body=Hi%20Damian%2C%0AI%27m%20writing%20to%20you%20regarding%2E%2E%2E>`_"
 msgstr ""
+":fa:`envelope fa` `damian@damiankrawczyk.com "
+"<mailto:damian@damiankrawczyk.com?subject=Pierwszy%20email&body=Cześć%20Damian%2C%0APiszę%20do%20Ciebie%20w%20sprawie%2E%2E%2E>`_"
 
 #: ../../contact/index.rst:12 d6e021db99794d85963025f3f4106c1d
 msgid ""
 ":fa:`map-marker fa`  `Katowice <https://goo.gl/maps/G7VXL5yb8S4bzFRk9>`_,"
 " `Poland <https://goo.gl/maps/CRszhNtHTtUFguUz8>`_ / remote"
 msgstr ""
+":fa:`map-marker fa`  `Katowice <https://goo.gl/maps/G7VXL5yb8S4bzFRk9>`_,"
+" `Polska <https://goo.gl/maps/CRszhNtHTtUFguUz8>`_ / zdalnie"
 
