@@ -19,6 +19,18 @@ focus on data analysis.
 
 ----
 
+.. rubric:: GOV PL Info
+
+**GOV PL Info**  is a project initiated on April 1, 2021. The main 
+goal of this project is to provide informations send by Polish Government 
+in a form of mobile notifications, by use of 
+`Telegram Channels <https://telegram.org/tour/channels>`_
+, in both polish and english languages.
+
+:doc:`read more <gov-pl-info/index>`
+
+----
+
 .. rubric:: Footnotes
 
 .. [1] read more about :term:`Open Source` in glossary

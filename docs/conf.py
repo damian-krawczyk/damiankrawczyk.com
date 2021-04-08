@@ -72,6 +72,13 @@ html_css_files = [
     "css/font-awesome.css",
 ]
 
+# https://www.sphinx-doc.org/en/master/usage/advanced/intl.html#quick-guide
+locale_dirs = ['locale/']   # path is example but recommended.
+gettext_compact = False     # optional.
+
+# https://docs.readthedocs.io/en/stable/guides/manage-translations.html
+gettext_uuid = True
+
 rst_prolog =  sphinx_fontawesome.prolog + """
 .. General:
 .. |me| replace:: :abbr:`me (Damian Krawczyk)`
@@ -80,4 +87,10 @@ rst_prolog =  sphinx_fontawesome.prolog + """
 .. |csv| replace:: :abbr:`csv (comma-separated value)`
 .. |xlsx| replace:: :abbr:`xlsx (Microsoft Excel Open XML Spreadsheet)`
 .. |VA| replace:: :abbr:`VA (Vulnerability Assessment)`
+
+.. |GPI| replace:: :abbr:`GPI (GOV PL Info)`
+.. |GIS| replace:: :abbr:`GIS (Główny Inspektorat Sanitarny)`
+.. |MSI| replace:: :abbr:`MSI (Main Sanitary Inspectorate)`
+.. |GIF| replace:: :abbr:`GIF (Główny Inspektorat Farmaceutyczny)`
+.. |MPI| replace:: :abbr:`MPI (Main Pharmaceutical Inspectorate)`
 """
