@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../../projects/index.rst:2 0d891a4aa82d42dab2f28d9371355865
 msgid "projects"
-msgstr ""
+msgstr "projekty"
 
 #: ../../projects/index.rst:6 758d91fe80184529a228f270bbda610d
 msgid "LimberDuck.org"

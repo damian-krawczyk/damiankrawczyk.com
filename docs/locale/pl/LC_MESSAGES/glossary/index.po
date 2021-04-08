@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../../glossary/index.rst:2 8bbacc1249f84dcc89b69ee878943408
 msgid "glossary"
-msgstr ""
+msgstr "słownik"
 
 #: ../../glossary/index.rst:5 623070d5ca4a4b66b5a5adfef0ac43fb
 msgid "Open Source"
