@@ -32,7 +32,7 @@ msgstr ""
 
 #: ../../_templates/page.html:88 eaa63a5a400544e989f28164779b7a8a
 msgid "Source"
-msgstr ""
+msgstr "Źródło strony"
 
 #: ../../_templates/page.html:94 2b7cb7f7f43c429da56463aa1e8b7bc7
 #, python-format
