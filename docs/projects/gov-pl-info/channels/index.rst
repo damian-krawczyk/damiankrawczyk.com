@@ -4,19 +4,18 @@ GPI Channels
 .. attention::
     Telegram Channels listed below are not provided nor supported by Polish Government.
 
-|GPI| - GOV PL Info Telegram Channels:
-
 .. list-table:: |GPI| Telegram Channel list
     :widths: 45 55
     :stub-columns: 1
 
-    * - |GPI| |GIS| |MSI|
+    * - |GPI| |GIS| |MSI| Channel
       - https://t.me/gpi_gis
-    * - |GPI| |GIF| |MPI|
+    * - |GPI| |GIF| |MPI| Channel
       - https://t.me/gpi_gif
-    * - |GPI| Coronavirus
+    * - |GPI| Coronavirus Channel
       - https://t.me/gpi_koronawirus
-
+    * - |GPI| Healthcheck Channel
+      - https://t.me/gpi_healthcheck
 
 Main Sanitary Inspectorate
 --------------------------
@@ -30,11 +29,11 @@ provides informations on its main page https://www.gov.pl/web/gis via threads:
 Informations from `Warnings <https://www.gov.pl/web/gis/ostrzezenia>`_  (*pl. Ostrzeżenia*) 
 thread are being send to Telegram Channel pointed below.
 
-.. list-table:: |GPI| |GIS| |MSI| Telegram Channel address
+.. list-table::
     :widths: 45 55
     :stub-columns: 1
 
-    * - |GPI| |GIS| |MSI|
+    * - |GPI| |GIS| |MSI| Channel
       - https://t.me/gpi_gis
 
 
@@ -51,11 +50,11 @@ provides informations on its main page https://www.gov.pl/web/gif via threads:
 Informations from `Messages <https://www.gov.pl/web/gif/wiadomosci>`_ (*pl. Wiadomości*) 
 thread are being send to Telegram Channel pointed below.
 
-.. list-table:: |GPI| |GIF| |MPI| Telegram Channel address
+.. list-table::
     :widths: 45 55
     :stub-columns: 1
 
-    * - |GPI| |GIF| |MPI|
+    * - |GPI| |GIF| |MPI| Channel
       - https://t.me/gpi_gif
 
 
@@ -70,9 +69,9 @@ dedicated page https://www.gov.pl/web/koronawirus via threads:
 
 Informations from these threads are being send to Telegram Channel pointed below.
 
-.. list-table:: |GPI| Coronavirus Telegram Channel address
+.. list-table::
     :widths: 45 55
     :stub-columns: 1
 
-    * - |GPI| Coronavirus
+    * - |GPI| Coronavirus Channel
       - https://t.me/gpi_koronawirus

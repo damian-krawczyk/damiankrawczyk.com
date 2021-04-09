@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Damian Krawczyk \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-08 20:54+0200\n"
+"POT-Creation-Date: 2021-04-09 23:49+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -29,135 +29,131 @@ msgid ""
 "Telegram Channels listed below are not provided nor supported by Polish "
 "Government."
 msgstr ""
-"Kanały aplikacji Telegram wymienione poniżej nie są dostarczane ani również wspierane przez Rząd "
-"Polski."
+"Kanały w aplikacji Telegram wymienione poniżej nie są dostarczane ani "
+"również wspierane przez Rząd Polski."
 
 #: ../../projects/gov-pl-info/channels/index.rst:7
-#: 76610b71d0fd47a5ba13981ab9f4eb32
-msgid "|GPI| - GOV PL Info Telegram Channels:"
-msgstr "|GPI| - GOV PL Info Kanały aplikacji Telegram:"
-
-#: ../../projects/gov-pl-info/channels/index.rst:9
 #: 07f58498824442d9b2aa3e3a755f8a65
 msgid "|GPI| Telegram Channel list"
-msgstr "Lista kanałów aplikacji Telegram |GPI|"
+msgstr "Lista Kanałów |GPI| w aplikacji Telegram"
 
-#: ../../projects/gov-pl-info/channels/index.rst:13
+#: ../../projects/gov-pl-info/channels/index.rst:11
+#: ../../projects/gov-pl-info/channels/index.rst:36
+#: 1c81d907b146475ca921d587c8d52e76
+msgid "|GPI| |GIS| |MSI| Channel"
+msgstr "Kanał |GPI| |GIS|"
+
+#: ../../projects/gov-pl-info/channels/index.rst:12
 #: ../../projects/gov-pl-info/channels/index.rst:37
-#: 610f27d200094e88ae7a850ab2b5d889 eb10c480b74c4684a10b356a4d249d4e
-msgid "|GPI| |GIS| |MSI|"
-msgstr "|GPI| |GIS|"
-
-#: ../../projects/gov-pl-info/channels/index.rst:14
-#: ../../projects/gov-pl-info/channels/index.rst:38
-#: 8a124ac5399147f29140af4fb8eed01c eabae37b297b4ddcae9fde64a30d764a
+#: 8a124ac5399147f29140af4fb8eed01c
 msgid "https://t.me/gpi_gis"
 msgstr ""
 
-#: ../../projects/gov-pl-info/channels/index.rst:15
-#: ../../projects/gov-pl-info/channels/index.rst:58
-#: 53b524cd048c4fb9b4b8325690de8ce9 59880bf9fca247cba75482551c123f40
-msgid "|GPI| |GIF| |MPI|"
-msgstr "|GPI| |GIF|"
+#: ../../projects/gov-pl-info/channels/index.rst:13
+#: ../../projects/gov-pl-info/channels/index.rst:57
+#: d67e9434103442c5b00c6842d3e60968
+msgid "|GPI| |GIF| |MPI| Channel"
+msgstr "Kanał |GPI| |GIF|"
 
-#: ../../projects/gov-pl-info/channels/index.rst:16
-#: ../../projects/gov-pl-info/channels/index.rst:59
-#: 0f5dbb01319e4798b77a4271a2c63bdf ee1c4d89d7a349cd8dc44dd0febde398
+#: ../../projects/gov-pl-info/channels/index.rst:14
+#: ../../projects/gov-pl-info/channels/index.rst:58
+#: ee1c4d89d7a349cd8dc44dd0febde398
 msgid "https://t.me/gpi_gif"
 msgstr ""
 
-#: ../../projects/gov-pl-info/channels/index.rst:17
-#: ../../projects/gov-pl-info/channels/index.rst:77
-#: 0d4785d547fd4e18a0c7e52e62cbb8f1 43355d8d9cac4175a1da24ca89793ce0
-msgid "|GPI| Coronavirus"
-msgstr "|GPI| Koronawirus"
+#: ../../projects/gov-pl-info/channels/index.rst:15
+#: ../../projects/gov-pl-info/channels/index.rst:76
+#: 96480dafa84b43e4995aa45accfe0880
+msgid "|GPI| Coronavirus Channel"
+msgstr "Kanał |GPI| Koronawirus"
 
-#: ../../projects/gov-pl-info/channels/index.rst:18
-#: ../../projects/gov-pl-info/channels/index.rst:78
-#: 69d80d0931ed4475b38fefad6c0de801 caa98cc745434ead85f664688c7c6240
+#: ../../projects/gov-pl-info/channels/index.rst:16
+#: ../../projects/gov-pl-info/channels/index.rst:77
+#: 69d80d0931ed4475b38fefad6c0de801
 msgid "https://t.me/gpi_koronawirus"
 msgstr ""
 
-#: ../../projects/gov-pl-info/channels/index.rst:22
+#: ../../projects/gov-pl-info/channels/index.rst:17
+#: 07f58498824442d9b2aa3e3a755f8a65
+msgid "|GPI| Healthcheck Channel"
+msgstr "Kanał |GPI| Healthcheck"
+
+#: ../../projects/gov-pl-info/channels/index.rst:18
+#: 69d80d0931ed4475b38fefad6c0de801
+msgid "https://t.me/gpi_healthcheck"
+msgstr ""
+
+#: ../../projects/gov-pl-info/channels/index.rst:21
 #: 8a521f5654b040ed994ace6a238ec8d5
 msgid "Main Sanitary Inspectorate"
 msgstr "Główny Inspektorat Sanitarny"
 
-#: ../../projects/gov-pl-info/channels/index.rst:24
+#: ../../projects/gov-pl-info/channels/index.rst:23
 #: c68de71df24749a0bd099b2e9b5c0143
 msgid ""
 "|MSI| - Main Sanitary Inspectorate in Poland (*pl. GIS - Główny "
 "Inspektorat Sanitarny w Polsce*) provides informations on its main page "
 "https://www.gov.pl/web/gis via threads:"
 msgstr ""
-"|GIS| - Główny "
-"Inspektorat Sanitarny w Polsce dostarcza informacje na stronie "
-"https://www.gov.pl/web/gis poprzez wątki:"
+"|GIS| - Główny Inspektorat Sanitarny w Polsce dostarcza informacje na "
+"stronie https://www.gov.pl/web/gis poprzez wątki:"
 
-#: ../../projects/gov-pl-info/channels/index.rst:27
+#: ../../projects/gov-pl-info/channels/index.rst:26
 #: 8634a6c3fb50483783eb6f4b1c190b6a
 msgid "`Messages <https://www.gov.pl/web/gis/wiadomosci>`_ (*pl. Wiadomości*)"
 msgstr "`Wiadomości <https://www.gov.pl/web/gis/wiadomosci>`_"
 
-#: ../../projects/gov-pl-info/channels/index.rst:28
+#: ../../projects/gov-pl-info/channels/index.rst:27
 #: fb60475b4b7d44e08d6c1945f6424b09
 msgid "`Warnings <https://www.gov.pl/web/gis/ostrzezenia>`_  (*pl. Ostrzeżenia*)"
 msgstr "`Ostrzeżenia <https://www.gov.pl/web/gis/ostrzezenia>`_"
 
-#: ../../projects/gov-pl-info/channels/index.rst:30
+#: ../../projects/gov-pl-info/channels/index.rst:29
 #: c9e9bad3ad414011b344bab101333ec1
 msgid ""
 "Informations from `Warnings <https://www.gov.pl/web/gis/ostrzezenia>`_  "
 "(*pl. Ostrzeżenia*) thread are being send to Telegram Channel pointed "
 "below."
 msgstr ""
-"Informacje z wątku `Ostrzeżenia <https://www.gov.pl/web/gis/ostrzezenia>`_  "
-"są przesyłane na Kanał aplikacji Telegram wskazany "
-"poniżej."
+"Informacje z wątku `Ostrzeżenia "
+"<https://www.gov.pl/web/gis/ostrzezenia>`_  są przesyłane na Kanał "
+"aplikacji Telegram wskazany poniżej."
 
-#: ../../projects/gov-pl-info/channels/index.rst:33
-#: 1c81d907b146475ca921d587c8d52e76
-msgid "|GPI| |GIS| |MSI| Telegram Channel address"
-msgstr "Adres kanału aplikacji Telegram |GPI| |GIS|"
-
-#: ../../projects/gov-pl-info/channels/index.rst:42
+#: ../../projects/gov-pl-info/channels/index.rst:41
 #: 5f5ed0770b14418881e9f3dd3eb0c689
 msgid "Main Pharmaceutical Inspectorate"
 msgstr "Główny Inspektorat Farmaceutyczny"
 
-#: ../../projects/gov-pl-info/channels/index.rst:44
+#: ../../projects/gov-pl-info/channels/index.rst:43
 #: 57e06e2de12142398ee8191f9bfb81be
 msgid ""
 "MPI - Main Pharmaceutical Inspectorate in Poland (pl. GIF - Główny "
 "Inspektorat Farmaceutyczny w Polsce) provides informations on its main "
 "page https://www.gov.pl/web/gif via threads:"
 msgstr ""
-"|GIF| - Główny "
-"Inspektorat Farmaceutyczny w Polsce dostarcza informacje na stronie "
-"https://www.gov.pl/web/gif poprzez wątki:"
+"|GIF| - Główny Inspektorat Farmaceutyczny w Polsce dostarcza informacje "
+"na stronie https://www.gov.pl/web/gif poprzez wątki:"
 
-#: ../../projects/gov-pl-info/channels/index.rst:47
+#: ../../projects/gov-pl-info/channels/index.rst:46
 #: b5dd0a04a1c345b0b3c0ce32735a17a1
 msgid "`Messages <https://www.gov.pl/web/gif/wiadomosci>`_ (*pl. Wiadomości*)"
 msgstr "`Wiadomości <https://www.gov.pl/web/gif/wiadomosci>`_"
 
-#: ../../projects/gov-pl-info/channels/index.rst:48
+#: ../../projects/gov-pl-info/channels/index.rst:47
 #: 4279a91444ce498eb18078019ec68958
 msgid ""
 "`Interpretations <https://www.gov.pl/web/gif/interpretacje>`_ (*pl. "
 "Interpretacje*)"
-msgstr ""
-"`Interpretacje <https://www.gov.pl/web/gif/interpretacje>`_"
+msgstr "`Interpretacje <https://www.gov.pl/web/gif/interpretacje>`_"
 
-#: ../../projects/gov-pl-info/channels/index.rst:49
+#: ../../projects/gov-pl-info/channels/index.rst:48
 #: 903a5ca6c81043ad9dd70d0e07eaaad6
 msgid ""
 "`Notifications <https://www.gov.pl/web/gif/komunikaty>`_  (*pl. "
 "Komunikaty*)"
-msgstr ""
-"`Komunikaty <https://www.gov.pl/web/gif/komunikaty>`_"
+msgstr "`Komunikaty <https://www.gov.pl/web/gif/komunikaty>`_"
 
-#: ../../projects/gov-pl-info/channels/index.rst:51
+#: ../../projects/gov-pl-info/channels/index.rst:50
 #: 38473e4abca940868a54b71a48aa2c67
 msgid ""
 "Informations from `Messages <https://www.gov.pl/web/gif/wiadomosci>`_ "
@@ -165,20 +161,14 @@ msgid ""
 "below."
 msgstr ""
 "Informacje z wątku `Wiadomości <https://www.gov.pl/web/gif/wiadomosci>`_ "
-"są przesyłane na Kanał aplikacji Telegram wskazany "
-"poniżej."
+"są przesyłane na Kanał aplikacji Telegram wskazany poniżej."
 
-#: ../../projects/gov-pl-info/channels/index.rst:54
-#: d67e9434103442c5b00c6842d3e60968
-msgid "|GPI| |GIF| |MPI| Telegram Channel address"
-msgstr "Adres kanału aplikacji Telegram |GPI| |GIF|"
-
-#: ../../projects/gov-pl-info/channels/index.rst:63
+#: ../../projects/gov-pl-info/channels/index.rst:62
 #: 6c099458d98c4af488e04ee92f9c4aa5
 msgid "Coronavirus"
 msgstr "Koronawirus"
 
-#: ../../projects/gov-pl-info/channels/index.rst:65
+#: ../../projects/gov-pl-info/channels/index.rst:64
 #: c6edbc93e37f4bee80a5b5d573fc47a1
 msgid ""
 "Polish Government provides information about coronavirus on dedicated "
@@ -187,24 +177,21 @@ msgstr ""
 "Rząd Polski dostarcza informacje związane z koronawirusem na stronie "
 "https://www.gov.pl/web/koronawirus poprzez wątki:"
 
-#: ../../projects/gov-pl-info/channels/index.rst:68
+#: ../../projects/gov-pl-info/channels/index.rst:67
 #: f9c89f27de154d1cba40575933c8a68f
 msgid ""
 "`Government actions <https://www.gov.pl/web/koronawirus/dzialania-"
 "rzadu>`_ (*pl. Działania rządu*)"
-msgstr ""
-"`Działania rządu <https://www.gov.pl/web/koronawirus/dzialania-"
-"rzadu>`_"
+msgstr "`Działania rządu <https://www.gov.pl/web/koronawirus/dzialania-rzadu>`_"
 
-#: ../../projects/gov-pl-info/channels/index.rst:69
+#: ../../projects/gov-pl-info/channels/index.rst:68
 #: 56de54f351b84f11bfd8414f4e3a94e1
 msgid ""
 "`Notifications <https://www.gov.pl/web/koronawirus/wiadomosci>`_ (*pl. "
 "Komunikaty*)"
-msgstr ""
-"`Komunikaty <https://www.gov.pl/web/koronawirus/wiadomosci>`_"
+msgstr "`Komunikaty <https://www.gov.pl/web/koronawirus/wiadomosci>`_"
 
-#: ../../projects/gov-pl-info/channels/index.rst:71
+#: ../../projects/gov-pl-info/channels/index.rst:70
 #: bc4bee3828ef47bda165d6adabce1598
 msgid ""
 "Informations from these threads are being send to Telegram Channel "
@@ -212,9 +199,4 @@ msgid ""
 msgstr ""
 "Informacje z tych wątków są przesyłane na Kanał aplikacji Telegram "
 "wskazany poniżej."
-
-#: ../../projects/gov-pl-info/channels/index.rst:73
-#: 96480dafa84b43e4995aa45accfe0880
-msgid "|GPI| Coronavirus Telegram Channel address"
-msgstr "Adres Kanału aplikacji Telegram |GPI| Koronawirus "
 

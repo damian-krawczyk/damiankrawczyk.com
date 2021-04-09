@@ -93,4 +93,10 @@ rst_prolog =  sphinx_fontawesome.prolog + """
 .. |MSI| replace:: :abbr:`MSI (Main Sanitary Inspectorate)`
 .. |GIF| replace:: :abbr:`GIF (Główny Inspektorat Farmaceutyczny)`
 .. |MPI| replace:: :abbr:`MPI (Main Pharmaceutical Inspectorate)`
+.. |GUS| replace:: :abbr:`GUS (Główny Urząd Statystyczny)`
+.. |CSO| replace:: :abbr:`CSO (Central Statistical Office)`
+
+
+.. |CET| replace:: :abbr:`CET (Central European Time)`
+.. |CEST| replace:: :abbr:`CEST (Central European Summer Time)`
 """

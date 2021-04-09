@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Damian Krawczyk \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-08 20:54+0200\n"
+"POT-Creation-Date: 2021-04-09 23:54+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -27,76 +27,224 @@ msgid ""
 "**GOV PL Info** is a project initiated on April 1, 2021. The main goal of"
 " this project is to provide informations send by Polish Government in a "
 "form of mobile notifications. This has been easily achieved by use of "
-"`Telegram Channels <https://telegram.org/tour/channels>`_ which can have "
-"an unlimited amount of subscribers. Since the source of information is "
-"provided in polish language, all notifications are being send in polish "
-"language, however in addition they are automatically translated into "
-"english language by use of Google Translate service which should make a "
-"life of foreigners in Poland a little bit easier."
+"`Telegram Channels <https://telegram.org/tour/channels>`_. Since the "
+"source of information is provided in polish language, all notifications "
+"are being send in polish language, however in addition they are "
+"automatically translated into english language by use of Google Translate"
+" service which should make a life of foreigners in Poland a little bit "
+"easier."
 msgstr ""
-"**GOV PL Info** jest projektem zainicjowanym 1 kwietnia 2021. Głównym celem"
-" tego projektu jest dostarczenie informacji wysyłanych przez Rząd Polski w "
-"formie notyfikacji mobilnych. Można to było osiągnąć w prosty sposób poprzez wykorzystanie "
-"`Kanałów aplikacji Telegram <https://telegram.org/tour/channels>`_, które mogą posiadać "
-"nielimitowaną ilość subskrybentów. Ponieważ źródło informacji jest "
-"udostępniane w języku polskim, wszystkie notyfikacje są również wysyłane w języku polskim, "
-"dodatkowo jednak są one w automatyczny sposób tłumaczone na "
-"język angielski przy wykorzystaniu usługi Translatora Google co powinno sprawić, że "
-"życie obcokrajowców w Polsce stanie się odrobinę łatwiejsze."
+"**GOV PL Info** jest projektem zainicjowanym 1 kwietnia 2021 roku. "
+"Głównym celem tego projektu jest dostarczenie informacji wysyłanych przez"
+" Rząd Polski w formie notyfikacji mobilnych. Zostało to osiągnięte w "
+"prosty sposób poprzez wykorzystanie `Kanałów aplikacji Telegram "
+"<https://telegram.org/tour/channels>`_. Ponieważ źródło informacji jest "
+"udostępniane w języku polskim, wszystkie notyfikacje są również wysyłane "
+"w języku polskim. Dodatkowo jednak są one w automatyczny sposób "
+"tłumaczone na język angielski przy wykorzystaniu usługi Translatora "
+"Google co powinno sprawić, że życie obcokrajowców w Polsce stanie się "
+"odrobinę łatwiejsze."
 
 #: ../../projects/gov-pl-info/index.rst:15 63813b3deac34deea824c69a5ceb534f
 msgid ""
-"Check :doc:`list of available channels <channels/index>` and subscribe "
-"for thread which is most interesting for you."
+"Check :doc:`LIST OF AVAILABLE GPI TELEGRAM CHANNELS <channels/index>` and"
+" subscribe most interesting for you."
 msgstr ""
-"Sprawdź :doc:`listę dostępnych kanałów <channels/index>` i zasubskrybuj "
-"wątek, który najbardziej Cię interesuje."
+"Sprawdź :doc:`LISTĘ DOSTĘPNYCH KANAŁÓW GPI W APLIKACJI TELEGRAM "
+"<channels/index>` i zasubskrybuj ten, który najbardziej Cię interesuje."
 
-#: ../../projects/gov-pl-info/index.rst:18 ff7afe6542ac4461a6f49eba0bab8e22
-msgid "GOV PL Info - technical details"
-msgstr "GOV PL Info - szczegóły techniczne"
+#: ../../projects/gov-pl-info/index.rst:18 ae4d1fcb40b346bc9ca6a8ba53c12da4
+msgid "First steps"
+msgstr "Pierwsze kroki"
 
-#: ../../projects/gov-pl-info/index.rst:22 ac9de80ec6e34128bc4e0f3ee9ed9c87
-msgid "GitHub source code"
-msgstr "GitHub kod źródłowy"
+#: ../../projects/gov-pl-info/index.rst:20 56afac7c36bc44cda9d04aa8391d7d49
+msgid ""
+"If you don't have Telegram yet, download it from here "
+"https://telegram.org."
+msgstr ""
+"Jeżeli nie masz jeszcze aplikacji Telegram, pobierz ją stąd "
+"https://telegram.org."
 
-#: ../../projects/gov-pl-info/index.rst:23 dde23438b89f44e7ab411232c5f180dc
-msgid "https://github.com/damian-krawczyk/gov-pl-info"
+#: ../../projects/gov-pl-info/index.rst:22 cfbe396883e14dbd98c39a528204b18b
+msgid "Supported Operating Systems: Android, iOS, iPadOS, Windows, macOS, Linux."
+msgstr "Wspierane Systemy Operacyjne: Android, iOS, iPadOS, Windows, macOS, Linux."
+
+#: ../../projects/gov-pl-info/index.rst:24 456956305d344de3a87dabcd5cf2909e
+msgid "Register following instructions on screen."
+msgstr ""
+"Zarejestruj się, postępując zgodnie z instrukcjami wyświetlanymi na "
+"ekranie."
+
+#: ../../projects/gov-pl-info/index.rst:25 6999bea3258e490fbdc9d5c8c2d24ba4
+msgid ""
+"Subscribe for the |GPI| Telegram Channels listed below or check for more "
+"details about them :doc:`here <channels/index>`."
+msgstr ""
+"Zasubskrybuj Kanały |GPI| w aplikacji Telegram wymienione poniżej lub "
+"przeczytaj więcej na ich temat :doc:`tutaj <channels/index>`."
+
+#: ../../projects/gov-pl-info/index.rst:32
+#: ../../projects/gov-pl-info/index.rst:107 4cfeb0937c054243be9f362444495b1c
+#: 7fb74cc1464144648e34b420e63e5604
+msgid "|GPI| |GIS| |MSI| Channel"
+msgstr "Kanał |GPI| |GIS|"
+
+#: ../../projects/gov-pl-info/index.rst:33
+#: ../../projects/gov-pl-info/index.rst:108 023faa7fa3244a12b4ab42405fbfcf12
+#: 3e299e5af3c94f48b8d922ec40fbeaae
+msgid "https://t.me/gpi_gis"
 msgstr ""
 
-#: ../../projects/gov-pl-info/index.rst:25 165deae390c24284b6e30fc147431bb6
-msgid "GitHub Actions"
+#: ../../projects/gov-pl-info/index.rst:34
+#: ../../projects/gov-pl-info/index.rst:109 5853246e67f741608286be01e17c5633
+#: 70057ebdce044c46b3961eebe3008db2
+msgid "|GPI| |GIF| |MPI| Channel"
+msgstr "Kanał |GPI| |GIF|"
+
+#: ../../projects/gov-pl-info/index.rst:35
+#: ../../projects/gov-pl-info/index.rst:110 5996c842fd2140a4a16ed6c550f5785e
+#: c777f22ba52f4f7e810d6dcb9d3b8cd1
+msgid "https://t.me/gpi_gif"
 msgstr ""
 
-#: ../../projects/gov-pl-info/index.rst:26 44c9366d6b2e4e41a3aa1ee81e8c0bac
-msgid "https://github.com/damian-krawczyk/gov-pl-info/actions"
+#: ../../projects/gov-pl-info/index.rst:36
+#: ../../projects/gov-pl-info/index.rst:111 9316ca0b375e45009d07afe6125793ca
+#: b787ab0bf17d47558db58d936eb7788e
+msgid "|GPI| Coronavirus Channel"
+msgstr "Kanał |GPI| Koronawirus"
+
+#: ../../projects/gov-pl-info/index.rst:37
+#: ../../projects/gov-pl-info/index.rst:112 08c40efa5d6e4bccbe607300c8d4f852
+#: 6c9074fbb7c544838c7bc965715883e7
+msgid "https://t.me/gpi_koronawirus"
 msgstr ""
 
-#: ../../projects/gov-pl-info/index.rst:29 fcc1d9aa9aaa4e659097bda5dd1e101d
+#: ../../projects/gov-pl-info/index.rst:38
+#: ../../projects/gov-pl-info/index.rst:113 9f664f27cffe4075ab976d92861ead50
+#: bd03361efb2c4171bb378ff198ab8d9e
+msgid "|GPI| Healthcheck Channel"
+msgstr "Kanał |GPI| Healthcheck"
+
+#: ../../projects/gov-pl-info/index.rst:39
+#: ../../projects/gov-pl-info/index.rst:114 443edc7114504bb2ae71da7ac456f2b3
+#: c97adf98ae9043ad920a7ba667156753
+msgid "https://t.me/gpi_healthcheck"
+msgstr ""
+
+#: ../../projects/gov-pl-info/index.rst:43 fcc1d9aa9aaa4e659097bda5dd1e101d
 msgid "technology stack"
 msgstr "stack technologiczny"
 
-#: ../../projects/gov-pl-info/index.rst:52 6ec017dec8bb4ac4b0701fc772b5d496
+#: ../../projects/gov-pl-info/index.rst:46 a7ab5281d56447a4b0d168335e3c0f8a
+msgid "python"
+msgstr ""
+
+#: ../../projects/gov-pl-info/index.rst:54 3f74bb40583e4a8484c593ca4c12aebc
+msgid ""
+"Python has been used here to write piece of code to download data from "
+"selected `gov.pl <https://www.gov.pl>`_ subpages, parse it, extract "
+"articles lately released, translate them using Google Translate service "
+"and finally prepare them to be send to created Telegram Channels."
+msgstr ""
+"Python został tutaj wykorzystany do napisania fragmentu kodu potrzebnego "
+"do pobierania danych z wybranych podstron `gov.pl <https://www.gov.pl>`_,"
+" przeprasowania ich, znalezienia artykułów, które zostały ostatnio "
+"opublikowane, przetłumaczenia ich za pomocą usługi Tłumacz Google i "
+"wreszcie przygotowania ich do wysłania do utworzonych wcześniej Kanałów w"
+" aplikacji Telegram."
+
+#: ../../projects/gov-pl-info/index.rst:63 ac9de80ec6e34128bc4e0f3ee9ed9c87
+msgid "|GPI| source code"
+msgstr "|GPI| kod źródłowy"
+
+#: ../../projects/gov-pl-info/index.rst:64 dde23438b89f44e7ab411232c5f180dc
+msgid "https://github.com/damian-krawczyk/gov-pl-info"
+msgstr ""
+
+#: ../../projects/gov-pl-info/index.rst:67 165deae390c24284b6e30fc147431bb6
+msgid "GitHub Actions"
+msgstr ""
+
+#: ../../projects/gov-pl-info/index.rst:75 c59509fe3d464b4d91179e89acf92393
+msgid ""
+"GitHub Actions has been used to define workflows for selected `gov.pl "
+"<https://www.gov.pl>`_ threads and dedicated Telegram Channels. Each "
+"workflow starts after midnight |CET| or |CEST| to get articles released "
+"on the previous day."
+msgstr ""
+"GitHub Actions zostało wykorzystane do zdefiniowania workflows dla "
+"wybranych wątków z `gov.pl <https://www.gov.pl>`_  oraz dedykowanych "
+"Kanałów w aplikacji Telegram. Każde workflow uruchamia się po północy "
+"|CET| lub |CEST|, aby pobrać artykuły udostępnione poprzedniego dnia."
+
+#: ../../projects/gov-pl-info/index.rst:84 f0b5affde7c84ad98abb28cb027c1c8a
+msgid "|GPI| workflows"
+msgstr ""
+
+#: ../../projects/gov-pl-info/index.rst:85 44c9366d6b2e4e41a3aa1ee81e8c0bac
+msgid "https://github.com/damian-krawczyk/gov-pl-info/actions"
+msgstr ""
+
+#: ../../projects/gov-pl-info/index.rst:88 74b14bd6e1bc4241b7d377d9a6b21077
+msgid "Telegram"
+msgstr ""
+
+#: ../../projects/gov-pl-info/index.rst:96 da96fd89752948fba9226e0a747a2854
+msgid ""
+"Telegram is here the main medium to provide notifications about articles "
+"extracted from selected `gov.pl <https://www.gov.pl>`_ subpages. Thanks "
+"to unlimited amount of subscribers it should be possible to provide "
+"notifications to all people living in Poland (38 137 795 - |GUS| |CSO| in"
+" Poland 2020 - `source <https://stat.gov.pl/obszary-"
+"tematyczne/ludnosc/ludnosc/ludnosc-piramida/>`_). Telegram supports "
+"following Operating Systems: Android, iOS, iPadOS, Windows, macOS, Linux."
+msgstr ""
+"Telegram jest tutaj głównym medium wykorzystywanym do dostarczenia "
+"powiadomień o artykułach znalezionych na wybranych podstronach `gov.pl "
+"<https://www.gov.pl>`_. Dzięki nielimitowanej ilości subskrybentów "
+"powinno być możliwe dostarczenie powiadomień do wszystkich osób "
+"mieszkających w Polsce (38 137 795 - |GUS| 2020 - `źródło "
+"<https://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/ludnosc-"
+"piramida/>`_). Telegram wspiera następujące Systemy Operacyjne: Android, "
+"iOS, iPadOS, Windows, macOS, Linux."
+
+#: ../../projects/gov-pl-info/index.rst:119 872e9b0a23c3428ea50c9c9fe064c4b7
+msgid "Google Translate"
+msgstr "Translator Google"
+
+#: ../../projects/gov-pl-info/index.rst:127 27e9aee5be634e3c83f088bcb2aa7c78
+msgid ""
+"Google Translate is used to translate notifications from Polish language "
+"to English language. Notification containing information in both "
+"languages is being send to dedicated Telegram Channel."
+msgstr ""
+"Translator Google jest wykorzystywany do tłumaczenia powiadomień z języka"
+" polskiego na język angielski. Powiadomienie zawierające informacje w obu"
+" językach jest wysyłane na dedykowany Kanał w aplikacji Telegram."
+
+#: ../../projects/gov-pl-info/index.rst:131 6ec017dec8bb4ac4b0701fc772b5d496
 msgid "contact"
 msgstr "kontakt"
 
-#: ../../projects/gov-pl-info/index.rst:55 0c7e9e153d474830a8364bcbf36690b0
+#: ../../projects/gov-pl-info/index.rst:134 0c7e9e153d474830a8364bcbf36690b0
 msgid "Did you face any problem with this solution?"
 msgstr "Napotkałeś jakikolwiek problem korzystając z tego rozwiązania?"
 
-#: ../../projects/gov-pl-info/index.rst:57 6a381bf2ae7245eaaeef40bf02979094
+#: ../../projects/gov-pl-info/index.rst:136 6a381bf2ae7245eaaeef40bf02979094
 msgid "Did you notice any error?"
 msgstr "Zauważyłeś błąd?"
 
-#: ../../projects/gov-pl-info/index.rst:59 acc0542f0517425a8bbc7f3dd18bb292
+#: ../../projects/gov-pl-info/index.rst:138 acc0542f0517425a8bbc7f3dd18bb292
 msgid "Would you like me to create similar solution suited to your exact needs?"
-msgstr "Chciałbyś, żebym stworzył dla Ciebie podobne rozwiązanie doposawane do Twoich potrzeb?"
+msgstr ""
+"Chciałbyś, żebym stworzył dla Ciebie podobne rozwiązanie doposawane do "
+"Twoich potrzeb?"
 
-#: ../../projects/gov-pl-info/index.rst:61 9589f25eeac24dc58d50f6f9cf4375cc
+#: ../../projects/gov-pl-info/index.rst:140 9589f25eeac24dc58d50f6f9cf4375cc
 msgid "**Let me know about it!**"
 msgstr "**Daj mi o tym znać!**"
 
-#: ../../projects/gov-pl-info/index.rst:63 8f9f291f8de84455936fc47875cef025
+#: ../../projects/gov-pl-info/index.rst:142 8f9f291f8de84455936fc47875cef025
 msgid ":doc:`CONTACT DETAILS <../../contact/index>`"
 msgstr ":doc:`SZCZEGÓŁY KONTAKTU <../../contact/index>`"
 
