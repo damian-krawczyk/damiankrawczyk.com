@@ -28,7 +28,7 @@ focus on data analysis.
 .. rubric:: Tools
 
 
-.. rubric:: nessus-file-analyzer
+.. rubric:: nessus file analyzer
 
 
 .. image:: https://limberduck.org/en/latest/_images/LimberDuck-nessus-file-analyzer-logo.png
@@ -45,7 +45,7 @@ used for |VA| [2]_ process.
 
 ----
 
-.. rubric:: nessus-file-reader
+.. rubric:: nessus file reader
 
 
 .. image:: https://limberduck.org/en/latest/_images/LimberDuck-nessus-file-reader-logo.png
@@ -62,7 +62,7 @@ used for |VA| [2]_ process.
 
 ----
 
-.. rubric:: converter-csv
+.. rubric:: converter csv
 
 
 .. image:: https://limberduck.org/en/latest/_images/LimberDuck-converter-csv-logo.png

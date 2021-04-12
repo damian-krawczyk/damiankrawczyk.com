@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Damian Krawczyk \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-08 20:54+0200\n"
+"POT-Creation-Date: 2021-04-12 19:59+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../../projects/limberduck.org/converter-csv/index.rst:2
 #: cda93c522e98487cbe0d7ff3db9d2c66
-msgid "converter-csv"
+msgid "converter csv"
 msgstr ""
 
 #: ../../projects/limberduck.org/converter-csv/index.rst:4

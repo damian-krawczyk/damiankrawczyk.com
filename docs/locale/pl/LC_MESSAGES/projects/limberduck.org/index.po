@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Damian Krawczyk \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-08 20:54+0200\n"
+"POT-Creation-Date: 2021-04-12 19:59+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -60,7 +60,7 @@ msgid "Tools"
 msgstr ""
 
 #: ../../projects/limberduck.org/index.rst:33 b4fd15af30bd4ab0b4c58a2fcde0d665
-msgid "nessus-file-analyzer"
+msgid "nessus file analyzer"
 msgstr ""
 
 #: ../../projects/limberduck.org/index.rst:40 2cf8e57ce3124c8787c567c6535c6d15
@@ -75,7 +75,7 @@ msgid ":doc:`read more <nessus-file-analyzer/index>`"
 msgstr ""
 
 #: ../../projects/limberduck.org/index.rst:50 75f4859951d940a2a2c7cf6278e6a8f4
-msgid "nessus-file-reader"
+msgid "nessus file reader"
 msgstr ""
 
 #: ../../projects/limberduck.org/index.rst:57 b3cac8ae2d8e4e2a8dcdab56063bc85f
@@ -90,7 +90,7 @@ msgid ":doc:`read more <nessus-file-reader/index>`"
 msgstr ""
 
 #: ../../projects/limberduck.org/index.rst:67 85d6c308ef3d42a590d5ac32ce40dd7c
-msgid "converter-csv"
+msgid "converter csv"
 msgstr ""
 
 #: ../../projects/limberduck.org/index.rst:74 42a2b2da056b4b288b77d24d718290f8
