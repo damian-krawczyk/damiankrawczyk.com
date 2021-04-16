@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Damian Krawczyk \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-08 20:54+0200\n"
+"POT-Creation-Date: 2021-04-14 01:05+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../../index.rst:7 0a7096a79d8c43b1a907b5660a5fc112
 msgid "about me"
-msgstr ""
+msgstr "o mnie"
 
 #: ../../index.rst:9 b76b2f7fe1604b24a25ed4586e173194
 msgid ""
@@ -37,48 +37,69 @@ msgid ""
 "maintenance and improvement of **Vulnerability Assessment** [2]_ process "
 "through majority of my career."
 msgstr ""
+"Jestem entuzjastą **automatyzacji** w moim życiu prywatnym oraz "
+"zawodowym. Głównym powodem tego jest CZAS - jedna z najcenniejszych "
+"rzeczy jaką posiadamy. Współczesna technologia pozwala nam projektować i "
+"wdrażać przyjazne dla użytkownika rozwiązania, które znacząco mogą "
+"poprawić sposób w jaki na co dzień żyjemy lub pracujemy. Podstawą tych "
+"rozwiązań są DANE - kolejna cenna rzecz, która wymaga odpowiedniej ochrony. "
+"**Bezpieczeństwo Informacji** (ang. **Information Security**) [1]_ dziedzina zajmująca się ochroną danych "
+"jest moim kolejnym zainteresowaniem. "
+"Powinno ono być brane pod uwagę podczas prac nad każdym produktem, już na początkowym etapie "
+"jego tworzenia oraz odpowiednio utrzymywane w trakcie całego cyklu życia produktu. "
+"Mam przyjemność zajmować się obiema kwestiami pracując jako "
+"**Inżynier Bezpieczeństwa** (ang. **Security Engineer**) oraz "
+"**Inżynier DevOps** (ang. **DevOps Engineer**) odpowiedzialny za "
+"utrzymywanie i rozwój procesu **Vulnerability Assessment** [2]_ przez "
+"większość mojej kariery zawodowej."
 
 #: ../../index.rst:18 fa9f5dbc94a64ac8a83801c56fb300d9
 msgid ""
 "I'm a promoter of open way of working. From coding point of view it means"
-" that whenever its' possible I'm trying to release my solutions as **Open"
-" Source** [3]_ or **Inner Source** [4]_. I hope that the solutions posted"
-" here will prove to be handy for you as well."
+" that whenever possible I'm trying to release my solutions as **Open "
+"Source** [3]_ or **Inner Source** [4]_. I hope that the solutions posted "
+"here will prove to be handy for you as well."
 msgstr ""
+"Jestem promotorem otwartego sposobu pracy. Z punktu widzenia oprogramowania "
+"oznacza to, że zawsze jeżeli jest to możliwe staram się udostępniać moje "
+"rozwiązania w formie **Otwartego oprogramowania** (ang. **Open Source**) "
+"[3]_ lub **Otwartego oprogramowania w obrębie organizacji** (ang. **Inner "
+"Source**) [4]_. Mam nadzieję, że rozwiązania, którymi się tutaj podzielę "
+"okażą się przydatne również dla Ciebie."
 
-#: ../../index.rst:24 0694dced052e46649b3e48035aaaf550
+#: ../../index.rst:23 0694dced052e46649b3e48035aaaf550
 msgid "projects"
-msgstr ""
+msgstr "projekty"
 
-#: ../../index.rst:25 926f6d555813425987eeec0d03639a5d
+#: ../../index.rst:24 926f6d555813425987eeec0d03639a5d
 msgid "Read more about my :doc:`/projects/index`."
-msgstr ""
+msgstr "Sprawdź moje :doc:`/projects/index`."
 
-#: ../../index.rst:29 b42050986c604434970eb89ca9a9d0cf
+#: ../../index.rst:28 b42050986c604434970eb89ca9a9d0cf
 msgid "contact"
-msgstr ""
+msgstr "kontakt"
 
-#: ../../index.rst:30 750eda8fccbd41fd94bcfa308e3454df
+#: ../../index.rst:29 750eda8fccbd41fd94bcfa308e3454df
 msgid "Feel free to :doc:`/contact/index` with me."
-msgstr ""
+msgstr "Tutaj :doc:`/contact/index` do mnie."
 
-#: ../../index.rst:35 d05ecade4d004d138f177d10c05195d9
+#: ../../index.rst:34 d05ecade4d004d138f177d10c05195d9
 msgid "Footnotes"
-msgstr ""
+msgstr "Przypisy"
 
-#: ../../index.rst:36 613b0d8cad844b1eb5845509bf1eed3d
+#: ../../index.rst:35 613b0d8cad844b1eb5845509bf1eed3d
 msgid ":term:`Information Security`"
 msgstr ""
 
-#: ../../index.rst:37 74df9dfa41a64efab50224c98407f77b
+#: ../../index.rst:36 74df9dfa41a64efab50224c98407f77b
 msgid ":term:`Vulnerability Assessment`"
 msgstr ""
 
-#: ../../index.rst:38 a0a4feb74297436d84d0af26c035348b
+#: ../../index.rst:37 a0a4feb74297436d84d0af26c035348b
 msgid ":term:`Open Source`"
 msgstr ""
 
-#: ../../index.rst:39 254b18eda5924c629556837759e48a62
+#: ../../index.rst:38 254b18eda5924c629556837759e48a62
 msgid ":term:`Inner Source`"
 msgstr ""
 
