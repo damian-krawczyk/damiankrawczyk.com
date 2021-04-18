@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Damian Krawczyk \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-12 19:59+0200\n"
+"POT-Creation-Date: 2021-04-15 06:54+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -42,16 +42,26 @@ msgid ""
 "exact host scan times, outputs of particular plugins and a lot more. It's"
 " free and Open Source [2]_ tool."
 msgstr ""
+"Jest to moduł pythonowy pozwalający na szybkie parsowanie plików nessus "
+"zawierających wyniki skanów wykonanych za pomocą aplikacji *Nessus* lub "
+"*Tenable.sc* wydanych przez © Tenable, Inc. które to aplikacje często wykorzystywane są w procesie |VA| [1]_. Moduł ten "
+"pozwala na pobranie danych poprzez funkcje zgrupowane w następujące kategorie: "
+"plik, skan, host, oraz plugin. Możliwe jest pobranie konkretnych informacji z "
+"wskazanych plików z wynikami skanów w formacie nessus np. rozmiar pliku, nazwa raportu, nazwy przeskanowanych hostów, "
+"liczba hostów podanych jako cel skanu, lista hostów przeskanowana z wykorzystaniem "
+"testów wymagającymi uwierzytelniania, liczba wykrytych podatności dla każdego współczynnika ryzyka (ang. Risk Factor), "
+"dokładny czas skanu poszczególnych hostów, właściwy wynik zwrócony przez wskazany plugin (ang. plugin output) oraz wiele innych. "
+"Jest to darmowe narzędzie Open Source [2]_."
 
 #: ../../projects/limberduck.org/nessus-file-reader/index.rst:21
 #: 82969ce3803e407392f1669b6eba414b
-msgid "nessus-file-reader details"
-msgstr ""
+msgid "nessus file reader project details"
+msgstr "szczegóły projektu nessus file reader"
 
 #: ../../projects/limberduck.org/nessus-file-reader/index.rst:25
 #: 44c27d7cc3e943c283d5abe082ba134a
 msgid "main page"
-msgstr ""
+msgstr "strona główna"
 
 #: ../../projects/limberduck.org/nessus-file-reader/index.rst:26
 #: 69aa2850318c4d93a42701b17889254f
@@ -61,20 +71,20 @@ msgstr ""
 #: ../../projects/limberduck.org/nessus-file-reader/index.rst:30
 #: fdd5c5ce2f26410d88f5e9d9618e8734
 msgid "technology stack"
-msgstr ""
+msgstr "stack technologiczny"
 
 #: ../../projects/limberduck.org/nessus-file-reader/index.rst:54
 #: ff5153ca19d541ed9b08031d147716eb
 msgid "Footnotes"
-msgstr ""
+msgstr "Przypisy"
 
 #: ../../projects/limberduck.org/nessus-file-reader/index.rst:55
 #: 8180e3c85cd34cda8d42e5d7191dacdb
 msgid "read more about :term:`Vulnerability Assessment` in glossary"
-msgstr ""
+msgstr "przeczytaj więcej o :term:`Vulnerability Assessment` w słowniku"
 
 #: ../../projects/limberduck.org/nessus-file-reader/index.rst:56
 #: aa4cfa7c8edd41ddb8dd88aa4a204272
 msgid "read more about :term:`Open Source` in glossary"
-msgstr ""
+msgstr "przeczytaj więcej o :term:`Open Source` w słowniku"
 

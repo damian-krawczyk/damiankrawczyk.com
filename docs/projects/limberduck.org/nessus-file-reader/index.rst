@@ -18,7 +18,7 @@ report hosts names, the number of target hosts, the number of hosts scanned with
 credentialed checks, the number of reported plugins per Risk Factor, exact host scan 
 times, outputs of particular plugins and a lot more. It's free and Open Source [2]_ tool.
 
-.. list-table:: nessus-file-reader details
+.. list-table:: nessus file reader project details
     :widths: 25 75
     :stub-columns: 1
 

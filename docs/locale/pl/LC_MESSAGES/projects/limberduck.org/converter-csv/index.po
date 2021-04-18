@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Damian Krawczyk \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-12 19:59+0200\n"
+"POT-Creation-Date: 2021-04-15 06:54+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -36,16 +36,22 @@ msgid ""
 "can run it on your operating system no matter if it is Windows, MacOS or "
 "GNU Linux. It's free and Open Source [#]_ tool."
 msgstr ""
+"Jest to narzędzie z graficznym interfejsem użytkownika (ang. |GUI|), które "
+"pozwala na konwersję wielu plików |csv| o dużych rozmiarach "
+"do plików |xlsx|, utrzymując wykorzystanie pamięci operacyjnej na niskim "
+"poziomie. "
+"Narzędzie to można uruchomić na systemach operacyjnych Windows, MacOS czy "
+"GNU Linux. Jest to darmowe narzędzie Open Source [#]_."
 
 #: ../../projects/limberduck.org/converter-csv/index.rst:17
 #: 095dc297c4614c078a07c878926b639b
-msgid "converter-csv details"
-msgstr ""
+msgid "converter csv project details"
+msgstr "szczegóły projektu converter csv"
 
 #: ../../projects/limberduck.org/converter-csv/index.rst:21
 #: 83ae125eea5747a6a0a57e976982c22b
 msgid "main page"
-msgstr ""
+msgstr "strona główna"
 
 #: ../../projects/limberduck.org/converter-csv/index.rst:22
 #: 1270db95e55f42908b69bfab8c60aa1c
@@ -55,15 +61,15 @@ msgstr ""
 #: ../../projects/limberduck.org/converter-csv/index.rst:26
 #: 36d1d72aac2943eca622acdda0742e70
 msgid "technology stack"
-msgstr ""
+msgstr "stack technologiczny"
 
 #: ../../projects/limberduck.org/converter-csv/index.rst:61
 #: 1a5f9975cb014ab89e6c10c5f79eb0eb
 msgid "Footnotes"
-msgstr ""
+msgstr "Przypisy"
 
 #: ../../projects/limberduck.org/converter-csv/index.rst:62
 #: 28ddf511f3c14d72beb544141cff522a
 msgid "read more about :term:`Open Source` in glossary"
-msgstr ""
+msgstr "przeczytaj więcej o :term:`Open Source` w słowniku"
 

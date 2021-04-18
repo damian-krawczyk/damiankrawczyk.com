@@ -14,7 +14,7 @@ keeping your operational memory usage at a low level. You can run it on your
 operating system no matter if it is Windows, MacOS or GNU Linux. It's free and Open 
 Source [#]_ tool.
 
-.. list-table:: converter-csv details
+.. list-table:: converter csv project details
     :widths: 25 75
     :stub-columns: 1
 

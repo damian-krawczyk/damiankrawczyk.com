@@ -34,14 +34,19 @@ msgid ""
 "wants to automate their work, decrease their workload and focus on data "
 "analysis."
 msgstr ""
+"**LimberDuck** (wym. ˈlɪm.bɚ dʌk) jest projektem rozpoczętym "
+"26 listopda 2018 roku. Głównym celem tego projektu jest stworzenie zestawu "
+"darmowych narzędzi Open Source [1]_ dedykowanych dla Inżynierów Bezpieczeństwa (ang. Security Engineers), którzy "
+"chcą zautomatyzować swoją pracę, zmniejszyć obciążenie zadaniami oraz skupić się na "
+"analizie danych."
 
 #: ../../projects/limberduck.org/index.rst:17 9f0f534d660347daa2f95d0c0177bcab
 msgid "LimberDuck project details"
-msgstr ""
+msgstr "szczegóły projektu LimberDuck"
 
 #: ../../projects/limberduck.org/index.rst:21 34f1e6ad82564b4c94e4fe9c89b6bd88
 msgid "main page"
-msgstr ""
+msgstr "strona główna"
 
 #: ../../projects/limberduck.org/index.rst:22 4dfcfcaa707f4007ae8519ca4eff6fee
 msgid "https://limberduck.org"
@@ -49,7 +54,7 @@ msgstr ""
 
 #: ../../projects/limberduck.org/index.rst:24 5965f2bfc89c4a2b815dc61218777022
 msgid "GitHub page"
-msgstr ""
+msgstr "strona GitHub"
 
 #: ../../projects/limberduck.org/index.rst:25 71c4d0bc8fab4d859603324f68c7121b
 msgid "https://github.com/limberduck"
@@ -57,7 +62,7 @@ msgstr ""
 
 #: ../../projects/limberduck.org/index.rst:30 4490d673b5e44e67afd08f58ec116cd3
 msgid "Tools"
-msgstr ""
+msgstr "Narzędzia"
 
 #: ../../projects/limberduck.org/index.rst:33 b4fd15af30bd4ab0b4c58a2fcde0d665
 msgid "nessus file analyzer"
@@ -69,10 +74,13 @@ msgid ""
 "the results of scans performed by using *Nessus* or *Tenable.sc* by © "
 "Tenable, Inc. used for |VA| [2]_ process."
 msgstr ""
+"Jest to narzędzie z graficznym interfejsem użytkownika (ang. |GUI|), które pozwala na analizę plików nessus zawierających "
+"wyniki skanów wykonanych za pomocą aplikacji *Nessus* lub *Tenable.sc* wydanych przez © "
+"Tenable, Inc. które to aplikacje często wykorzystywane są w procesie |VA| [2]_."
 
 #: ../../projects/limberduck.org/index.rst:44 f5ddd2424458494bb256251336292581
 msgid ":doc:`read more <nessus-file-analyzer/index>`"
-msgstr ""
+msgstr ":doc:`przeczytaj więcej <nessus-file-analyzer/index>`"
 
 #: ../../projects/limberduck.org/index.rst:50 75f4859951d940a2a2c7cf6278e6a8f4
 msgid "nessus file reader"
@@ -84,10 +92,13 @@ msgid ""
 "containing the results of scans performed by using *Nessus* or "
 "*Tenable.sc* by © Tenable, Inc. used for |VA| [2]_ process."
 msgstr ""
+"Jest to moduł pythonowy pozwalający na szybkie parsowanie plików nessus "
+"zawierających wyniki skanów wykonanych za pomocą aplikacji *Nessus* lub *Tenable.sc* wydanych przez © "
+"Tenable, Inc. które to aplikacje często wykorzystywane są w procesie |VA| [2]_."
 
 #: ../../projects/limberduck.org/index.rst:61 9d4dd44f93a24a56b81da3ebb248ce9a
 msgid ":doc:`read more <nessus-file-reader/index>`"
-msgstr ""
+msgstr ":doc:`przeczytaj więcej <nessus-file-reader/index>`"
 
 #: ../../projects/limberduck.org/index.rst:67 85d6c308ef3d42a590d5ac32ce40dd7c
 msgid "converter csv"
@@ -99,20 +110,23 @@ msgid ""
 "files to |xlsx| files keeping your operational memory usage at a low "
 "level."
 msgstr ""
+"Jest to narzędzie z graficznym interfejsem użytkownika (ang. |GUI|), które pozwala na konwersję wielu plików |csv| o dużych rozmiarach "
+"do plików |xlsx|, utrzymując wykorzystanie pamięci operacyjnej na niskim "
+"poziomie."
 
 #: ../../projects/limberduck.org/index.rst:77 39309045405b478bb4f69c7f2d1322c3
 msgid ":doc:`read more <converter-csv/index>`"
-msgstr ""
+msgstr ":doc:`przeczytaj więcej <converter-csv/index>`"
 
 #: ../../projects/limberduck.org/index.rst:86 ef71a981f84a46dd952145ce876606bc
 msgid "Footnotes"
-msgstr ""
+msgstr "Przypisy"
 
 #: ../../projects/limberduck.org/index.rst:87 ad388666686b49eb8da0253a47086394
 msgid "read more about :term:`Open Source` in glossary"
-msgstr ""
+msgstr "przeczytaj więcej o :term:`Open Source` w słowniku"
 
 #: ../../projects/limberduck.org/index.rst:88 bf9b0408a8f84943a955a7a17a6d87de
 msgid "read more about :term:`Vulnerability Assessment` in glossary"
-msgstr ""
+msgstr "przeczytaj więcej o :term:`Vulnerability Assessment` w słowniku"
 

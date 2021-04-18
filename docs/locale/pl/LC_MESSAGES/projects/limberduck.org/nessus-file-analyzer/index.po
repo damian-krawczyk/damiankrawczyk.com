@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Damian Krawczyk \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-12 19:59+0200\n"
+"POT-Creation-Date: 2021-04-15 06:54+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -37,6 +37,12 @@ msgid ""
 "results are exported to a Microsoft Excel Workbook for effortless "
 "analysis."
 msgstr ""
+"Jest to narzędzie z graficznym interfejsem użytkownika (ang. |GUI|), "
+"które pozwala na konwersję wielu plików nessus  "
+"zawierających wyniki skanów wykonanych za pomocą aplikacji *Nessus* lub "
+"*Tenable.sc* wydanych przez © Tenable, Inc. które to aplikacje często wykorzystywane są w procesie |VA| [1]_. "
+"Przeparsowane wyniki skanów są eksportowane do arkusza kalkulacyjnego Microsoft Excel (|xlsx|) ułatwiając ich "
+"analizę."
 
 #: ../../projects/limberduck.org/nessus-file-analyzer/index.rst:17
 #: f8021e7bf2d9491c9f60bbe9269ccb74
@@ -49,16 +55,22 @@ msgid ""
 "view of all reported vulnerabilities [2]_ and/or noncompliance. It's free"
 " and Open Source [3]_ tool."
 msgstr ""
+"Wykorzystanie pamięci operacyjnej będzie utrzymywane na niskim poziomie nawet podczas parsowania plików o dużym rozmiarze. "
+"Narzędzie to można uruchomić na systemach operacyjnych Windows, MacOS czy "
+"GNU Linux. Wynikiem działania jest arkusz kalkulacyjny Microsoft Excel (|xlsx|) z zakładkami "
+"zawierającymi kolejno dane: podsumowanie całego skanu, podsumowanie wszystkich przeskanowanych "
+"hostów, wszystkie szczegółowe wyniki na temat wykrytych podatności [2]_ czy niezgodności. "
+"Jest to darmowe narzędzie Open Source [3]_."
 
 #: ../../projects/limberduck.org/nessus-file-analyzer/index.rst:24
 #: f8ab88501c1e48cd87f889313022c748
-msgid "nessus-file-analyzer details"
-msgstr ""
+msgid "nessus file analyzer project details"
+msgstr "szczegóły projektu nessus file analyzer"
 
 #: ../../projects/limberduck.org/nessus-file-analyzer/index.rst:28
 #: 09d27e1d3ed34e738c2a6a41d981b6b3
 msgid "main page"
-msgstr ""
+msgstr "strona główna"
 
 #: ../../projects/limberduck.org/nessus-file-analyzer/index.rst:29
 #: 46926d1f7bc24d8baf2303e33f25dd12
@@ -68,25 +80,25 @@ msgstr ""
 #: ../../projects/limberduck.org/nessus-file-analyzer/index.rst:33
 #: 94458be625c145eb80e5d01bcc5dab4c
 msgid "technology stack"
-msgstr ""
+msgstr "stack technologiczny"
 
 #: ../../projects/limberduck.org/nessus-file-analyzer/index.rst:53
 #: f0edb6147b604c2087b825a167a5676a
 msgid "Footnotes"
-msgstr ""
+msgstr "Przypisy"
 
 #: ../../projects/limberduck.org/nessus-file-analyzer/index.rst:54
 #: 28078ec62c5143f9816e4d39911575c2
 msgid "read more about :term:`Vulnerability Assessment` in glossary"
-msgstr ""
+msgstr "przeczytaj więcej o :term:`Vulnerability Assessment` w słowniku"
 
 #: ../../projects/limberduck.org/nessus-file-analyzer/index.rst:55
 #: fcab2dce09864ea3ac605979a4e5a889
 msgid "read more about :term:`vulnerability` in glossary"
-msgstr ""
+msgstr "przeczytaj więcej o :term:`vulnerability` w słowniku"
 
 #: ../../projects/limberduck.org/nessus-file-analyzer/index.rst:56
 #: 5de24a09eb3248eb802a3d7b15dc3963
 msgid "read more about :term:`Open Source` in glossary"
-msgstr ""
+msgstr "przeczytaj więcej o :term:`Open Source` w słowniku"
 

@@ -21,7 +21,7 @@ will receive spreadsheets with a summary view of the whole scan and/or all repor
 hosts. You will also be able to generate spreadsheets with a detailed view of all 
 reported vulnerabilities [2]_ and/or noncompliance. It's free and Open Source [3]_ tool.
 
-.. list-table:: nessus-file-analyzer details
+.. list-table:: nessus file analyzer project details
     :widths: 25 75
     :stub-columns: 1
 
