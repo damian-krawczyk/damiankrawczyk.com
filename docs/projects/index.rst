@@ -8,7 +8,7 @@ projects
    :alt: LimberDuck logo
    :width: 100px
    :align: left
-   :target: .
+   :target: ./limberduck.org
 
 **LimberDuck** (pronounced ˈlɪm.bɚ dʌk) is a project initiated on November 26, 2018. The main 
 goal of this project is to create an array of free and Open Source [1]_ tools dedicated 
@@ -20,6 +20,12 @@ focus on data analysis.
 ----
 
 .. rubric:: GOV PL Info
+
+.. image:: ../../_static/img/GPI-logo.png
+   :alt: GOV PL Info logo
+   :width: 100px
+   :align: left
+   :target: ./gov-pl-info
 
 **GOV PL Info**  is a project initiated on April 1, 2021. The main 
 goal of this project is to provide informations send by Polish Government 

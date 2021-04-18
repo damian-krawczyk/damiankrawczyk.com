@@ -34,10 +34,15 @@ msgid ""
 "wants to automate their work, decrease their workload and focus on data "
 "analysis."
 msgstr ""
+"**LimberDuck** (wym. ˈlɪm.bɚ dʌk) jest projektem rozpoczętym "
+"26 listopda 2018 roku. Głównym celem tego projektu jest stworzenie zestawu "
+"darmowych narzędzi Open Source [1]_ dedykowanych dla Inżynierów Bezpieczeństwa (ang. Security Engineers), którzy "
+"chcą zautomatyzować swoją pracę, zmniejszyć obciążenie zadaniami oraz skupić na "
+"analizie danych."
 
 #: ../../projects/index.rst:18 9c9a03d0d0c44a2588651c08d22ae7af
 msgid ":doc:`read more <limberduck.org/index>`"
-msgstr ""
+msgstr ":doc:`przeczytaj więcej <limberduck.org/index>`"
 
 #: ../../projects/index.rst:23 383fa83129e0468888c33d7798b909b3
 msgid "GOV PL Info"
@@ -51,16 +56,20 @@ msgid ""
 "<https://telegram.org/tour/channels>`_ , in both polish and english "
 "languages."
 msgstr ""
+"**GOV PL Info** jest projektem zainicjowanym 1 kwietnia 2021 roku. Głównym celem "
+"tego projektu jest dostarczenie informacji wysyłanych przez Rząd Polski w "
+"formie notyfikacji mobilnych, poprzez wykorzystanie `Kanałów aplikacji Telegram "
+"<https://telegram.org/tour/channels>`_, w językach polskim oraz angielskim. "
 
 #: ../../projects/index.rst:30 45784aad72a04c4588c895ce61d64397
 msgid ":doc:`read more <gov-pl-info/index>`"
-msgstr ""
+msgstr ":doc:`przeczytaj więcej <gov-pl-info/index>`"
 
 #: ../../projects/index.rst:35 97b91c3556154fb3b57b93eb8aa2c30f
 msgid "Footnotes"
-msgstr ""
+msgstr "Przypisy"
 
 #: ../../projects/index.rst:36 67c88dcc0a5d4a798044cfe5d44aa44f
 msgid "read more about :term:`Open Source` in glossary"
-msgstr ""
+msgstr "przeczytaj więcej o :term:`Open Source` w słowniku"
 
