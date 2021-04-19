@@ -14,8 +14,8 @@ GPI Channels
       - https://t.me/gpi_gif
     * - |GPI| Coronavirus Channel
       - https://t.me/gpi_koronawirus
-    * - |GPI| Healthcheck Channel
-      - https://t.me/gpi_healthcheck
+    * - |GPI| Health Check Channel
+      - https://t.me/gpi_health_check
 
 Main Sanitary Inspectorate
 --------------------------

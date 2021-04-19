@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Damian Krawczyk \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-09 23:54+0200\n"
+"POT-Creation-Date: 2021-04-19 15:34+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -122,13 +122,13 @@ msgstr ""
 #: ../../projects/gov-pl-info/index.rst:38
 #: ../../projects/gov-pl-info/index.rst:113 9f664f27cffe4075ab976d92861ead50
 #: bd03361efb2c4171bb378ff198ab8d9e
-msgid "|GPI| Healthcheck Channel"
-msgstr "Kanał |GPI| Healthcheck"
+msgid "|GPI| Health Check Channel"
+msgstr "Kanał |GPI| Health Check"
 
 #: ../../projects/gov-pl-info/index.rst:39
 #: ../../projects/gov-pl-info/index.rst:114 443edc7114504bb2ae71da7ac456f2b3
 #: c97adf98ae9043ad920a7ba667156753
-msgid "https://t.me/gpi_healthcheck"
+msgid "https://t.me/gpi_health_check"
 msgstr ""
 
 #: ../../projects/gov-pl-info/index.rst:43 fcc1d9aa9aaa4e659097bda5dd1e101d
