@@ -17,7 +17,7 @@ process through majority of my career.
 
 I'm a promoter of open way of working. From coding point of view it means that whenever 
 possible I'm trying to release my solutions as **Open Source** [3]_
-or **Inner Source** [4]_. I hope that the solutions posted here will prove to be handy for you as well.
+or **Inner Source** [4]_. I hope that projects posted here will prove to be handy for you as well.
  
 .. rubric:: projects
 
