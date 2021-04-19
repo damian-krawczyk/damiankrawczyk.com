@@ -7,7 +7,7 @@ about me
 ========
 
 I'm an enthusiast of **automation** in both my private and professional life. The main reason for that is TIME - 
-one of the most precious thing we have. Contemporary technology let's us design and implement user-friendly 
+one of the most precious thing we have. Contemporary technology lets us design and implement user-friendly 
 solutions that can significantly enhance the way we live or work. At the base of these solutions is DATA - a 
 subsequent treasure that requires appropriate protection. This leads to my other biggest interest - 
 **Information Security** [1]_ which should be a native part of every product at the early stage of its development, 
