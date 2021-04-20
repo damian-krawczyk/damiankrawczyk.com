@@ -20,6 +20,8 @@ GPI Channels
 Main Sanitary Inspectorate
 --------------------------
 
+|gpi_gis_subscribers|
+
 |MSI| - Main Sanitary Inspectorate in Poland (*pl. GIS - Główny Inspektorat Sanitarny w Polsce*) 
 provides informations on its main page https://www.gov.pl/web/gis via threads: 
 
@@ -39,6 +41,8 @@ thread are being send to Telegram Channel pointed below.
 
 Main Pharmaceutical Inspectorate
 --------------------------------
+
+|gpi_gif_subscribers|
 
 MPI - Main Pharmaceutical Inspectorate in Poland (pl. GIF - Główny Inspektorat Farmaceutyczny w Polsce)
 provides informations on its main page https://www.gov.pl/web/gif via threads: 
@@ -61,6 +65,8 @@ thread are being send to Telegram Channel pointed below.
 Coronavirus
 -----------
 
+|gpi_koronawirus_subscribers|
+
 Polish Government provides information about coronavirus on 
 dedicated page https://www.gov.pl/web/koronawirus via threads: 
 
@@ -75,3 +81,20 @@ Informations from these threads are being send to Telegram Channel pointed below
 
     * - |GPI| Coronavirus Channel
       - https://t.me/gpi_koronawirus
+
+
+.. |gpi_gis_subscribers| image:: https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Frunkit.io%2Fdamiankrawczyk%2Ftelegram-channel-subscribers%2Fbranches%2Fmaster%3Furl%3Dhttps%3A%2F%2Ft.me%2Fgpi_gis
+    :target: https://t.me/gpi_gis
+    :alt: GPI GIS Channel subscribers
+
+.. |gpi_gif_subscribers| image:: https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Frunkit.io%2Fdamiankrawczyk%2Ftelegram-channel-subscribers%2Fbranches%2Fmaster%3Furl%3Dhttps%3A%2F%2Ft.me%2Fgpi_gif
+    :target: https://t.me/gpi_gif
+    :alt: GPI GIF Channel subscribers
+
+.. |gpi_koronawirus_subscribers| image:: https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Frunkit.io%2Fdamiankrawczyk%2Ftelegram-channel-subscribers%2Fbranches%2Fmaster%3Furl%3Dhttps%3A%2F%2Ft.me%2Fgpi_koronawirus
+    :target: https://t.me/gpi_koronawirus
+    :alt: GPI Coronavirus Channel subscribers
+
+.. |gpi_health_check_subscribers| image:: https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Frunkit.io%2Fdamiankrawczyk%2Ftelegram-channel-subscribers%2Fbranches%2Fmaster%3Furl%3Dhttps%3A%2F%2Ft.me%2Fgpi_health_check
+    :target: https://t.me/gpi_health_check
+    :alt: GPI Health Check Channel subscribers
