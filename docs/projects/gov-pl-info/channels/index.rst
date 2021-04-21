@@ -39,6 +39,10 @@ thread are being send to Telegram Channel pointed below.
 
 |gpi_gis_subscribers|
 
+.. tip::
+
+  Click `Preview Channel <https://t.me/s/gpi_gis>`_ to see Channel content.
+
 ----
 
 Main Pharmaceutical Inspectorate
@@ -65,6 +69,10 @@ thread are being send to Telegram Channel pointed below.
 
 |gpi_gif_subscribers|
 
+.. tip::
+
+  Click `Preview Channel <https://t.me/s/gpi_gif>`_ to see Channel content.
+
 ----
 
 Coronavirus
@@ -89,6 +97,10 @@ Information from these threads are being send to Telegram Channel pointed below.
 
 |gpi_koronawirus_subscribers|
 
+.. tip::
+
+  Click `Preview Channel <https://t.me/s/gpi_koronawirus>`_ to see Channel content.
+
 ----
 
 GPI Health Check Channel
@@ -107,6 +119,10 @@ appear there every day in the absence of articles.
 `CLICK TO SUBSCRIBE <https://t.me/gpi_health_check>`_ |GPI| Health Check Telegram Channel
 
 |gpi_health_check_subscribers|
+
+.. tip::
+
+  Click `Preview Channel <https://t.me/s/gpi_health_check>`_ to see Channel content.
 
 ----
 
