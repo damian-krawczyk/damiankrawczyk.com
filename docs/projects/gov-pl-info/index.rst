@@ -51,11 +51,14 @@ How to subscribe
 2. Register following instructions on screen.
 3. Subscribe to the |GPI| Telegram Channels.
 
-    .. note::
-        Check :doc:`THE LIST OF AVAILABLE GPI TELEGRAM CHANNELS <channels/index>` 
-        and subscribe to the most interesting ones for you.
+Channel list
+------------
 
-technology stack
+.. note::
+  Check :doc:`THE LIST OF AVAILABLE GPI TELEGRAM CHANNELS <channels/index>` 
+  and subscribe to the most interesting ones for you.
+
+Technology stack
 ----------------
 
 python
@@ -130,7 +133,7 @@ Google Translate is used to translate notifications from Polish to English.
 Notifications containing information in both languages are being sent to 
 dedicated Telegram Channels.
 
-contact
+Contact
 -------
 
 .. important::
