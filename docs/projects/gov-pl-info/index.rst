@@ -1,18 +1,18 @@
 GOV PL Info
 ===========
 
-**GOV PL Info** is a project initiated on April 1, 2021. The main goal 
-of this project is to provide informations send by Polish Government in 
-a form of mobile notifications. This has been easily achieved by use of 
-`Telegram Channels <https://telegram.org/tour/channels>`_. 
-Since the source of information is 
-provided in polish language, all notifications are being send in polish 
-language, however in addition they are automatically translated into 
-english language by use of Google Translate service which should make a 
-life of foreigners in Poland a little bit easier.
+**GOV PL Info** is a project initiated on April 1, 2021. The main goal of this 
+project is to provide information being sent by the Polish Government in the 
+form of mobile notifications. This has been easily achieved by using 
+`Telegram Channels <https://telegram.org/tour/channels>`_. Since the source of 
+information is provided in Polish, all notifications are being sent in Polish. 
+However in addition they are automatically translated into English by the 
+Google Translate service which should make life a bit easier for foreigners in 
+Poland.
 
 .. note::
-    Check :doc:`LIST OF AVAILABLE GPI TELEGRAM CHANNELS <channels/index>` and subscribe most interesting for you.
+    Check :doc:`THE LIST OF AVAILABLE GPI TELEGRAM CHANNELS <channels/index>` 
+    and subscribe to the most interesting ones for you.
 
 First steps
 -----------
@@ -22,7 +22,7 @@ First steps
     Supported Operating Systems: Android, iOS, iPadOS, Windows, macOS, Linux.
 
 2. Register following instructions on screen.
-3. Subscribe for the |GPI| Telegram Channels listed below or check for more details about them :doc:`here <channels/index>`.
+3. Subscribe to the |GPI| Telegram Channels listed below or check for more details about them :doc:`here <channels/index>`.
 
 
     .. list-table::
@@ -51,10 +51,10 @@ python
     :align: left
     :width: 165px
 
-Python has been used here to write piece of code to download data from selected 
-`gov.pl <https://www.gov.pl>`_ subpages, parse it, extract articles lately released, 
-translate them using Google Translate service and finally prepare them to be send to 
-created Telegram Channels.
+Python has been used here to write the code to download the data from 
+the selected `gov.pl <https://www.gov.pl>`_ subpages, parse it, extract 
+articles lately released, translate them using Google Translate service and 
+finally prepare them to be sent to the created Telegram Channels.
 
 .. list-table::
     :widths: 25 75
@@ -72,7 +72,7 @@ GitHub Actions
     :align: left
     :width: 55px
 
-GitHub Actions has been used to define workflows for selected 
+GitHub Actions have been used to define workflows for selected 
 `gov.pl <https://www.gov.pl>`_ threads and dedicated Telegram Channels. 
 Each workflow starts after midnight |CET| or |CEST| to get articles 
 released on the previous day.
@@ -93,12 +93,12 @@ Telegram
     :align: left
     :width: 55px
 
-Telegram is here the main medium to provide notifications about articles 
-extracted from selected `gov.pl <https://www.gov.pl>`_ subpages. Thanks to 
-unlimited amount of subscribers it should be possible to provide notifications
-to all people living in Poland (38 137 795 - |GUS| |CSO| in Poland 2020 - 
-`source <https://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/ludnosc-piramida/>`_).
-Telegram supports following Operating Systems: Android, iOS, iPadOS, Windows, macOS, Linux.
+Here, Telegram is the main medium to provide notifications about articles 
+extracted from selected `gov.pl <https://www.gov.pl>`_ subpages. Thanks to an
+unlimited amount of subscribers, it should be possible to provide 
+notifications to everyone living in Poland (38 137 795 - |GUS| |CSO| in Poland 
+2020 - `source <https://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/ludnosc-piramida/>`_).
+Telegram supports the following Operating Systems: Android, iOS, iPadOS, Windows, macOS, Linux.
 
 .. list-table::
     :widths: 45 55
@@ -124,16 +124,17 @@ Google Translate
     :align: left
     :width: 55px
 
-Google Translate is used to translate notifications from Polish language to English language.
-Notification containing information in both languages is being send to dedicated Telegram Channel.
+Google Translate is used to translate notifications from Polish to English.
+Notifications containing information in both languages are being sent to 
+dedicated Telegram Channels.
 
 contact
 -------
 
 .. important::
-    Did you face any problem with this solution? 
+    Have you ever faced any problem with this solution? 
     
-    Did you notice any error?
+    Have you noticed any errors?
     
     Would you like me to create similar solution suited to your exact needs? 
     

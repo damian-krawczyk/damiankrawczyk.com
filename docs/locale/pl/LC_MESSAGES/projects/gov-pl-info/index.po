@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Damian Krawczyk \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-19 15:34+0200\n"
+"POT-Creation-Date: 2021-04-21 16:21+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -24,31 +24,30 @@ msgstr ""
 
 #: ../../projects/gov-pl-info/index.rst:4 7e486e0bc4cd49858cd2ae0208930cd2
 msgid ""
-"**GOV PL Info** is a project initiated on April 1, 2021. The main goal of"
-" this project is to provide informations send by Polish Government in a "
-"form of mobile notifications. This has been easily achieved by use of "
-"`Telegram Channels <https://telegram.org/tour/channels>`_. Since the "
-"source of information is provided in polish language, all notifications "
-"are being send in polish language, however in addition they are "
-"automatically translated into english language by use of Google Translate"
-" service which should make a life of foreigners in Poland a little bit "
-"easier."
+"**GOV PL Info** is a project initiated on April 1, 2021. The main goal of "
+"this project is to provide information being sent by the Polish "
+"Government in the form of mobile notifications. This has been easily "
+"achieved by using `Telegram Channels "
+"<https://telegram.org/tour/channels>`_. Since the source of information "
+"is provided in Polish, all notifications are being sent in Polish. "
+"However in addition they are automatically translated into English by the "
+"Google Translate service which should make life a bit easier for "
+"foreigners in Poland."
 msgstr ""
-"**GOV PL Info** jest projektem zainicjowanym 1 kwietnia 2021 roku. "
-"Głównym celem tego projektu jest dostarczenie informacji wysyłanych przez"
-" Rząd Polski w formie notyfikacji mobilnych. Zostało to osiągnięte w "
-"prosty sposób poprzez wykorzystanie `Kanałów aplikacji Telegram "
-"<https://telegram.org/tour/channels>`_. Ponieważ źródło informacji jest "
-"udostępniane w języku polskim, wszystkie notyfikacje są również wysyłane "
-"w języku polskim. Dodatkowo jednak są one w automatyczny sposób "
-"tłumaczone na język angielski przy wykorzystaniu usługi Translatora "
-"Google co powinno sprawić, że życie obcokrajowców w Polsce stanie się "
-"odrobinę łatwiejsze."
+"**GOV PL Info** jest projektem zainicjowanym 1 kwietnia 2021 roku. Głównym "
+"celem tego projektu jest dostarczenie informacji wysyłanych przez Rząd "
+"Polski w formie notyfikacji mobilnych. Zostało to osiągnięte w prosty sposób "
+"poprzez wykorzystanie `Kanałów aplikacji Telegram <https://telegram.org/tour/channels>`_. "
+"Ponieważ źródło informacji jest udostępniane w języku polskim, wszystkie "
+"notyfikacje są również wysyłane w języku polskim. Dodatkowo jednak są one "
+"w automatyczny sposób tłumaczone na język angielski przy wykorzystaniu usługi "
+"Translatora Google co powinno sprawić, że życie obcokrajowców w Polsce stanie "
+"się odrobinę łatwiejsze."
 
-#: ../../projects/gov-pl-info/index.rst:15 63813b3deac34deea824c69a5ceb534f
+#: ../../projects/gov-pl-info/index.rst:14 63813b3deac34deea824c69a5ceb534f
 msgid ""
-"Check :doc:`LIST OF AVAILABLE GPI TELEGRAM CHANNELS <channels/index>` and"
-" subscribe most interesting for you."
+"Check :doc:`THE LIST OF AVAILABLE GPI TELEGRAM CHANNELS <channels/index>`"
+" and subscribe to the most interesting ones for you."
 msgstr ""
 "Sprawdź :doc:`LISTĘ DOSTĘPNYCH KANAŁÓW GPI W APLIKACJI TELEGRAM "
 "<channels/index>` i zasubskrybuj ten, który najbardziej Cię interesuje."
@@ -77,7 +76,7 @@ msgstr ""
 
 #: ../../projects/gov-pl-info/index.rst:25 6999bea3258e490fbdc9d5c8c2d24ba4
 msgid ""
-"Subscribe for the |GPI| Telegram Channels listed below or check for more "
+"Subscribe to the |GPI| Telegram Channels listed below or check for more "
 "details about them :doc:`here <channels/index>`."
 msgstr ""
 "Zasubskrybuj Kanały |GPI| w aplikacji Telegram wymienione poniżej lub "
@@ -141,17 +140,18 @@ msgstr ""
 
 #: ../../projects/gov-pl-info/index.rst:54 3f74bb40583e4a8484c593ca4c12aebc
 msgid ""
-"Python has been used here to write piece of code to download data from "
-"selected `gov.pl <https://www.gov.pl>`_ subpages, parse it, extract "
-"articles lately released, translate them using Google Translate service "
-"and finally prepare them to be send to created Telegram Channels."
+"Python has been used here to write the code to download the data "
+"from the selected `gov.pl <https://www.gov.pl>`_ subpages, parse it, "
+"extract articles lately released, translate them using Google Translate "
+"service and finally prepare them to be sent to the created Telegram "
+"Channels."
 msgstr ""
-"Python został tutaj wykorzystany do napisania fragmentu kodu potrzebnego "
-"do pobierania danych z wybranych podstron `gov.pl <https://www.gov.pl>`_,"
-" przeprasowania ich, znalezienia artykułów, które zostały ostatnio "
+"Python został tutaj wykorzystany do napisania kodu potrzebnego "
+"do pobierania danych z wybranych podstron `gov.pl <https://www.gov.pl>`_, "
+"przeprasowania ich, znalezienia artykułów, które zostały ostatnio "
 "opublikowane, przetłumaczenia ich za pomocą usługi Tłumacz Google i "
-"wreszcie przygotowania ich do wysłania do utworzonych wcześniej Kanałów w"
-" aplikacji Telegram."
+"wreszcie przygotowania ich do wysłania do utworzonych wcześniej Kanałów w "
+"aplikacji Telegram."
 
 #: ../../projects/gov-pl-info/index.rst:63 ac9de80ec6e34128bc4e0f3ee9ed9c87
 msgid "|GPI| source code"
@@ -167,7 +167,7 @@ msgstr ""
 
 #: ../../projects/gov-pl-info/index.rst:75 c59509fe3d464b4d91179e89acf92393
 msgid ""
-"GitHub Actions has been used to define workflows for selected `gov.pl "
+"GitHub Actions have been used to define workflows for selected `gov.pl "
 "<https://www.gov.pl>`_ threads and dedicated Telegram Channels. Each "
 "workflow starts after midnight |CET| or |CEST| to get articles released "
 "on the previous day."
@@ -191,12 +191,12 @@ msgstr ""
 
 #: ../../projects/gov-pl-info/index.rst:96 da96fd89752948fba9226e0a747a2854
 msgid ""
-"Telegram is here the main medium to provide notifications about articles "
+"Here, Telegram is the main medium to provide notifications about articles "
 "extracted from selected `gov.pl <https://www.gov.pl>`_ subpages. Thanks "
-"to unlimited amount of subscribers it should be possible to provide "
-"notifications to all people living in Poland (38 137 795 - |GUS| |CSO| in"
-" Poland 2020 - `source <https://stat.gov.pl/obszary-"
-"tematyczne/ludnosc/ludnosc/ludnosc-piramida/>`_). Telegram supports "
+"to an unlimited amount of subscribers, it should be possible to provide "
+"notifications to everyone living in Poland (38 137 795 - |GUS| |CSO| in "
+"Poland 2020 - `source <https://stat.gov.pl/obszary-"
+"tematyczne/ludnosc/ludnosc/ludnosc-piramida/>`_). Telegram supports the "
 "following Operating Systems: Android, iOS, iPadOS, Windows, macOS, Linux."
 msgstr ""
 "Telegram jest tutaj głównym medium wykorzystywanym do dostarczenia "
@@ -214,37 +214,37 @@ msgstr "Translator Google"
 
 #: ../../projects/gov-pl-info/index.rst:127 27e9aee5be634e3c83f088bcb2aa7c78
 msgid ""
-"Google Translate is used to translate notifications from Polish language "
-"to English language. Notification containing information in both "
-"languages is being send to dedicated Telegram Channel."
+"Google Translate is used to translate notifications from Polish to "
+"English. Notifications containing information in both languages are being"
+" sent to dedicated Telegram Channels."
 msgstr ""
 "Translator Google jest wykorzystywany do tłumaczenia powiadomień z języka"
 " polskiego na język angielski. Powiadomienie zawierające informacje w obu"
 " językach jest wysyłane na dedykowany Kanał w aplikacji Telegram."
 
-#: ../../projects/gov-pl-info/index.rst:131 6ec017dec8bb4ac4b0701fc772b5d496
+#: ../../projects/gov-pl-info/index.rst:132 6ec017dec8bb4ac4b0701fc772b5d496
 msgid "contact"
 msgstr "kontakt"
 
-#: ../../projects/gov-pl-info/index.rst:134 0c7e9e153d474830a8364bcbf36690b0
-msgid "Did you face any problem with this solution?"
+#: ../../projects/gov-pl-info/index.rst:135 0c7e9e153d474830a8364bcbf36690b0
+msgid "Have you ever faced any problem with this solution?"
 msgstr "Napotkałeś jakikolwiek problem korzystając z tego rozwiązania?"
 
-#: ../../projects/gov-pl-info/index.rst:136 6a381bf2ae7245eaaeef40bf02979094
-msgid "Did you notice any error?"
+#: ../../projects/gov-pl-info/index.rst:137 6a381bf2ae7245eaaeef40bf02979094
+msgid "Have you noticed any errors?"
 msgstr "Zauważyłeś błąd?"
 
-#: ../../projects/gov-pl-info/index.rst:138 acc0542f0517425a8bbc7f3dd18bb292
+#: ../../projects/gov-pl-info/index.rst:139 acc0542f0517425a8bbc7f3dd18bb292
 msgid "Would you like me to create similar solution suited to your exact needs?"
 msgstr ""
 "Chciałbyś, żebym stworzył dla Ciebie podobne rozwiązanie doposawane do "
 "Twoich potrzeb?"
 
-#: ../../projects/gov-pl-info/index.rst:140 9589f25eeac24dc58d50f6f9cf4375cc
+#: ../../projects/gov-pl-info/index.rst:141 9589f25eeac24dc58d50f6f9cf4375cc
 msgid "**Let me know about it!**"
 msgstr "**Daj mi o tym znać!**"
 
-#: ../../projects/gov-pl-info/index.rst:142 8f9f291f8de84455936fc47875cef025
+#: ../../projects/gov-pl-info/index.rst:143 8f9f291f8de84455936fc47875cef025
 msgid ":doc:`CONTACT DETAILS <../../contact/index>`"
 msgstr ":doc:`SZCZEGÓŁY KONTAKTU <../../contact/index>`"
 
