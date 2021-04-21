@@ -10,34 +10,50 @@ However in addition they are automatically translated into English by the
 Google Translate service which should make life a bit easier for foreigners in 
 Poland.
 
-.. note::
-    Check :doc:`THE LIST OF AVAILABLE GPI TELEGRAM CHANNELS <channels/index>` 
-    and subscribe to the most interesting ones for you.
+Target audience
+---------------
 
-First steps
------------
+This solution is dedicated **for everyone who cares about their health** and wants 
+to receive information about:
+
+- food products, everyday products or medicines withdrawn from sale in 
+  Poland due to different reasons,
+- Polish Government announcements and actions regarding the coronavirus / COVID-19.
+
+This solution is dedicated **for everyone who cares about their time** and wants 
+to receive information in convenient way like:
+
+- notifications directly on smartphone, tablet or computer,
+- notifications in English and Polish which are easily to forward,
+- information directly from source (`gov.pl <https://www.gov.pl>`_),
+- information without advertisements.
+
+Finally, this solution is dedicated for everyone who wants to give yourself a 
+break from Facebook, Twitter, TV or radio.
+
+How it works
+------------
+
+Current implementation of the solution works as follows:
+
+1. Every day after midnight, content is being downloaded from `gov.pl <https://www.gov.pl>`_ websites.
+2. If any articles were published on them on the previous day, 
+   you will receive a notification in the Telegram application 
+   on your smartphone, tablet or computer.
+
+How to subscribe
+----------------
 
 1. If you don't have Telegram yet, download it from here https://telegram.org.
    
     Supported Operating Systems: Android, iOS, iPadOS, Windows, macOS, Linux.
 
 2. Register following instructions on screen.
-3. Subscribe to the |GPI| Telegram Channels listed below or check for more details about them :doc:`here <channels/index>`.
+3. Subscribe to the |GPI| Telegram Channels.
 
-
-    .. list-table::
-        :widths: 45 55
-        :stub-columns: 1
-
-        * - |GPI| |GIS| |MSI| Channel
-          - https://t.me/gpi_gis
-        * - |GPI| |GIF| |MPI| Channel
-          - https://t.me/gpi_gif
-        * - |GPI| Coronavirus Channel
-          - https://t.me/gpi_koronawirus
-        * - |GPI| Health Check Channel
-          - https://t.me/gpi_health_check
-
+    .. note::
+        Check :doc:`THE LIST OF AVAILABLE GPI TELEGRAM CHANNELS <channels/index>` 
+        and subscribe to the most interesting ones for you.
 
 technology stack
 ----------------
@@ -99,20 +115,6 @@ unlimited amount of subscribers, it should be possible to provide
 notifications to everyone living in Poland (38 137 795 - |GUS| |CSO| in Poland 
 2020 - `source <https://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/ludnosc-piramida/>`_).
 Telegram supports the following Operating Systems: Android, iOS, iPadOS, Windows, macOS, Linux.
-
-.. list-table::
-    :widths: 45 55
-    :stub-columns: 1
-
-    * - |GPI| |GIS| |MSI| Channel
-      - https://t.me/gpi_gis
-    * - |GPI| |GIF| |MPI| Channel
-      - https://t.me/gpi_gif
-    * - |GPI| Coronavirus Channel
-      - https://t.me/gpi_koronawirus
-    * - |GPI| Health Check Channel
-      - https://t.me/gpi_health_check
-
 
       
 Google Translate
