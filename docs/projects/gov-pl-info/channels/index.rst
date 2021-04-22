@@ -20,7 +20,7 @@ GPI Channels
 Main Sanitary Inspectorate
 --------------------------
 
-|MSI| - Main Sanitary Inspectorate in Poland (*pl. GIS - Główny Inspektorat Sanitarny w Polsce*) 
+|MSI| - Main Sanitary Inspectorate in Poland (pl. |GIS| - Główny Inspektorat Sanitarny w Polsce) 
 provides information on its main page https://www.gov.pl/web/gis via threads: 
 
 - `Messages <https://www.gov.pl/web/gis/wiadomosci>`_ (*pl. Wiadomości*)
@@ -48,7 +48,7 @@ thread are being send to Telegram Channel pointed below.
 Main Pharmaceutical Inspectorate
 --------------------------------
 
-MPI - Main Pharmaceutical Inspectorate in Poland (pl. GIF - Główny Inspektorat Farmaceutyczny w Polsce)
+|MPI| - Main Pharmaceutical Inspectorate in Poland (pl. |GIF| - Główny Inspektorat Farmaceutyczny w Polsce)
 provides information on its main page https://www.gov.pl/web/gif via threads: 
 
 - `Messages <https://www.gov.pl/web/gif/wiadomosci>`_ (*pl. Wiadomości*)

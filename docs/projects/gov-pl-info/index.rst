@@ -16,9 +16,11 @@ Target audience
 This solution is dedicated **for everyone who cares about their health** and wants 
 to receive information about:
 
-- food products, everyday products or medicines withdrawn from sale in 
-  Poland due to different reasons,
-- Polish Government announcements and actions regarding the coronavirus / COVID-19.
+- |MSI| - Main Sanitary Inspectorate in Poland warnings about **food products and 
+  everyday products withdrawn** from sale in Poland due to different reasons,
+- |MPI| - Main Pharmaceutical Inspectorate in Poland messages about **medicines 
+  withdrawn** from sale in Poland due to different reasons,
+- Polish Government announcements and **actions regarding the coronavirus** / COVID-19.
 
 This solution is dedicated **for everyone who cares about their time** and wants 
 to receive information in convenient way like:
