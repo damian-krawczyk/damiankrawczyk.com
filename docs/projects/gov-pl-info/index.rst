@@ -52,17 +52,22 @@ Current implementation of the solution works as follows:
 How to subscribe
 ----------------
 
-1. If you don't have Telegram yet, download it from here https://telegram.org.
+1. If you don't have Telegram yet, download it from here https://telegram.org/dl/.
    
     Supported Operating Systems: Android, iOS, iPadOS, Windows, macOS, Linux.
 
 2. Register following instructions on screen.
 3. Subscribe to the |GPI| Telegram Channels.
 
+  .. note::
+    | **Your phone number is not visible to the rest of subscribers!** 
+    | By default, your number is only visible to people who you've added to your address book as contacts. 
+    | Read more here https://telegram.org/faq#q-who-can-see-my-phone-number
+
 Channel list
 ------------
 
-.. note::
+.. seealso::
   Check :doc:`THE LIST OF AVAILABLE GPI TELEGRAM CHANNELS <channels/index>` 
   and subscribe to the most interesting ones for you.
 
