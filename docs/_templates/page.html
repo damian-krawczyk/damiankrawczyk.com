@@ -1,5 +1,20 @@
 {% extends "base.html" %}
 
+{% block extrahead %}
+    {% if pagename == 'projects/gov-pl-info/index' %}
+      <meta property="og:title" content="GPI - GOV PL Info">
+      <meta property="og:type" content="website">
+      <meta property="og:url" content="https://damiankrawczyk.com/pl/latest/projects/gov-pl-info/">
+      <meta property="og:description" content="Powiadomienia z GOV PL w języku polskim oraz angielskim bezpośrednio na smartfon.">
+      <meta property="og:image" content="https://damiankrawczyk.com/en/latest/_images/GPI-article-cover.png">
+      <meta property="og:site_name" content="DamianKrawczyk.com">
+      <meta property="og:locale" content="pl_PL" />
+      <meta property="og:locale:alternate" content="en_GB" />
+    {% else %}
+        {{ head }}
+    {% endif %}
+{% endblock %}
+
 {% block body -%}
 {% include "partials/icons.html" %}
 
