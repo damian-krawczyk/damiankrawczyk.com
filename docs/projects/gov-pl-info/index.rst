@@ -1,7 +1,7 @@
 GPI - GOV PL Info
 =================
 
-.. image:: ../../_static/img/GPI-article-cover.png
+.. image:: https://damiankrawczyk.com/en/latest/_images/GPI-article-cover.png
     :alt: GPI - GOV PL Info article cover
     :target: .
     :align: center
