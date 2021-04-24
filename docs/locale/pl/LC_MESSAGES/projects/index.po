@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Damian Krawczyk \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-08 20:54+0200\n"
+"POT-Creation-Date: 2021-04-24 05:35+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,11 +22,33 @@ msgstr ""
 msgid "projects"
 msgstr "projekty"
 
-#: ../../projects/index.rst:6 758d91fe80184529a228f270bbda610d
+#: ../../projects/index.rst:5 383fa83129e0468888c33d7798b909b3
+msgid "GPI - GOV PL Info"
+msgstr ""
+
+#: ../../projects/index.rst:12 acd4621d9f9a4f6fa689fe4cc03a4092
+msgid ""
+"**GPI - GOV PL Info**  is a project initiated on April 1, 2021. The main "
+"goal of this project is to provide informations send by Polish Government"
+" in a form of mobile notifications, by use of `Telegram Channels "
+"<https://telegram.org/tour/channels>`_ , in both polish and english "
+"languages."
+msgstr ""
+"**GPI - GOV PL Info** jest projektem zainicjowanym 1 kwietnia 2021 roku. "
+"Głównym celem tego projektu jest dostarczenie informacji wysyłanych przez"
+" Rząd Polski w formie notyfikacji mobilnych, poprzez wykorzystanie "
+"`Kanałów aplikacji Telegram <https://telegram.org/tour/channels>`_, w "
+"językach polskim oraz angielskim. "
+
+#: ../../projects/index.rst:18 45784aad72a04c4588c895ce61d64397
+msgid ":doc:`read more <gov-pl-info/index>`"
+msgstr ":doc:`przeczytaj więcej <gov-pl-info/index>`"
+
+#: ../../projects/index.rst:23 758d91fe80184529a228f270bbda610d
 msgid "LimberDuck.org"
 msgstr ""
 
-#: ../../projects/index.rst:13 e35136d0c5984c769a6c47a3350e2880
+#: ../../projects/index.rst:30 e35136d0c5984c769a6c47a3350e2880
 msgid ""
 "**LimberDuck** (pronounced ˈlɪm.bɚ dʌk) is a project initiated on "
 "November 26, 2018. The main goal of this project is to create an array of"
@@ -34,42 +56,21 @@ msgid ""
 "wants to automate their work, decrease their workload and focus on data "
 "analysis."
 msgstr ""
-"**LimberDuck** (wym. ˈlɪm.bɚ dʌk) jest projektem rozpoczętym "
-"26 listopada 2018 roku. Głównym celem tego projektu jest stworzenie zestawu "
-"darmowych narzędzi Open Source [1]_ dedykowanych dla Inżynierów Bezpieczeństwa (ang. Security Engineers), którzy "
-"chcą zautomatyzować swoją pracę, zmniejszyć obciążenie zadaniami oraz skupić na "
-"analizie danych."
+"**LimberDuck** (wym. ˈlɪm.bɚ dʌk) jest projektem rozpoczętym 26 listopada"
+" 2018 roku. Głównym celem tego projektu jest stworzenie zestawu darmowych"
+" narzędzi Open Source [1]_ dedykowanych dla Inżynierów Bezpieczeństwa "
+"(ang. Security Engineers), którzy chcą zautomatyzować swoją pracę, "
+"zmniejszyć obciążenie zadaniami oraz skupić na analizie danych."
 
-#: ../../projects/index.rst:18 9c9a03d0d0c44a2588651c08d22ae7af
+#: ../../projects/index.rst:35 9c9a03d0d0c44a2588651c08d22ae7af
 msgid ":doc:`read more <limberduck.org/index>`"
 msgstr ":doc:`przeczytaj więcej <limberduck.org/index>`"
 
-#: ../../projects/index.rst:23 383fa83129e0468888c33d7798b909b3
-msgid "GOV PL Info"
-msgstr ""
-
-#: ../../projects/index.rst:24 acd4621d9f9a4f6fa689fe4cc03a4092
-msgid ""
-"**GOV PL Info**  is a project initiated on April 1, 2021. The main goal "
-"of this project is to provide informations send by Polish Government in a"
-" form of mobile notifications, by use of `Telegram Channels "
-"<https://telegram.org/tour/channels>`_ , in both polish and english "
-"languages."
-msgstr ""
-"**GOV PL Info** jest projektem zainicjowanym 1 kwietnia 2021 roku. Głównym celem "
-"tego projektu jest dostarczenie informacji wysyłanych przez Rząd Polski w "
-"formie notyfikacji mobilnych, poprzez wykorzystanie `Kanałów aplikacji Telegram "
-"<https://telegram.org/tour/channels>`_, w językach polskim oraz angielskim. "
-
-#: ../../projects/index.rst:30 45784aad72a04c4588c895ce61d64397
-msgid ":doc:`read more <gov-pl-info/index>`"
-msgstr ":doc:`przeczytaj więcej <gov-pl-info/index>`"
-
-#: ../../projects/index.rst:35 97b91c3556154fb3b57b93eb8aa2c30f
+#: ../../projects/index.rst:40 97b91c3556154fb3b57b93eb8aa2c30f
 msgid "Footnotes"
 msgstr "Przypisy"
 
-#: ../../projects/index.rst:36 67c88dcc0a5d4a798044cfe5d44aa44f
+#: ../../projects/index.rst:41 67c88dcc0a5d4a798044cfe5d44aa44f
 msgid "read more about :term:`Open Source` in glossary"
 msgstr "przeczytaj więcej o :term:`Open Source` w słowniku"
 
