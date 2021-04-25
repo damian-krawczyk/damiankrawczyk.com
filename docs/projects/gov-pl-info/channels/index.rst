@@ -124,6 +124,10 @@ appear there every day in the absence of articles.
 
   Click `Preview Channel <https://t.me/s/gpi_health_check>`_ to see Channel content.
 
+.. tip::
+
+    Check how to mute Telegram Channel `here <https://t.me/TelegramTips/260>`_.
+
 ----
 
 .. |gpi_gis_subscribers| image:: https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Frunkit.io%2Fdamiankrawczyk%2Ftelegram-badge%2Fbranches%2Fmaster%3Furl%3Dhttps%3A%2F%2Ft.me%2Fgpi_gis
