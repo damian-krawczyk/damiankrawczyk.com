@@ -35,7 +35,14 @@ to receive information in convenient way like:
 - notifications in English and Polish which are easily to forward,
 - information directly from source (`gov.pl <https://www.gov.pl>`_),
 - information without advertisements,
-- instant search of the message you're looking for, even among millions.
+- instant search of the message you're looking for, even among millions, 
+  e.g. `gluten <https://t.me/s/gpi_gis?q=gluten>`_, 
+  `Salmonella <https://t.me/s/gpi_gis?q=Salmonella>`_,
+  `Pfizer <https://t.me/s/gpi_gif?q=Pfizer>`_,
+  `Janssen <https://t.me/s/gpi_gif?q=Janssen>`_,
+  `AstraZeneca <https://t.me/s/gpi_gif?q=AstraZeneca>`_,
+  `Anti-crisis shield <https://t.me/s/gpi_koronawirus?q=Anti-crisis+shield>`_,
+  etc.
 
 Finally, this solution is dedicated for everyone who wants to give yourself a 
 break from Facebook, Twitter, TV or radio.
