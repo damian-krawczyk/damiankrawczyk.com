@@ -34,7 +34,8 @@ to receive information in convenient way like:
 - notifications directly on smartphone, tablet or computer,
 - notifications in English and Polish which are easily to forward,
 - information directly from source (`gov.pl <https://www.gov.pl>`_),
-- information without advertisements.
+- information without advertisements,
+- instant search of the message you're looking for, even among millions.
 
 Finally, this solution is dedicated for everyone who wants to give yourself a 
 break from Facebook, Twitter, TV or radio.
