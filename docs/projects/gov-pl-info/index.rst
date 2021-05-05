@@ -7,9 +7,9 @@ GPI - GOV PL Info
     :align: center
     :width: 550px
 
-**GPI - GOV PL Info** is a project initiated on April 1, 2021. The main goal of this 
-project is to provide information being sent by the Polish Government in the 
-form of mobile notifications. This has been easily achieved by using 
+**GPI - GOV PL Info** is a project initiated on April 1, 2021. The main goal 
+of this project is to provide information being sent by the Polish Government 
+in the form of mobile notifications. This has been easily achieved by using 
 `Telegram Channels <https://telegram.org/tour/channels>`_. Since the source of 
 information is provided in Polish, all notifications are being sent in Polish. 
 However in addition they are automatically translated into English by the 
@@ -19,23 +19,27 @@ Poland.
 Target audience
 ---------------
 
-This solution is dedicated **for everyone who cares about their health** and wants 
-to receive information about:
+This solution is dedicated **to everyone who cares about their health** and
+wants to receive information such as the following:
 
-- |MSI| - Main Sanitary Inspectorate in Poland warnings about **food products and 
-  everyday products withdrawn** from sale in Poland due to different reasons,
-- |MPI| - Main Pharmaceutical Inspectorate in Poland messages about **medicines 
-  withdrawn** from sale in Poland due to different reasons,
-- Polish Government announcements and **actions regarding the coronavirus** / COVID-19.
+- **warnings about food products and everyday products recall** from sale in 
+  Poland due to varying health and safety related reasons published by 
+  Main Sanitary Inspectorate in Poland (|MSI| pl. |GIS|),
+- **messages about medicines recall** from sale in Poland due to varying 
+  health and safety reasons published by Main Pharmaceutical Inspectorate in 
+  Poland (|MPI| pl. |GIF|)
+- Polish Government announcements and **actions regarding the coronavirus** / 
+  COVID-19.
 
-This solution is dedicated **for everyone who cares about their time** and wants 
-to receive information in convenient way like:
+This solution is dedicated **to everyone who cares about their time** and wants 
+to conveniently receive:
 
-- notifications directly on smartphone, tablet or computer,
-- notifications in English and Polish which are easily to forward,
-- information directly from source (`gov.pl <https://www.gov.pl>`_),
-- information without advertisements,
-- instant search of the message you're looking for, even among millions, 
+- notifications directly to your smartphone, tablet or computer,
+- notifications in English and Polish,
+- easy-to-forward notifications,
+- information directly from the source (`gov.pl <https://www.gov.pl>`_),
+- information without distracting advertisements,
+- an instant search of the message you're looking for, even among millions, 
   e.g. `gluten <https://t.me/s/gpi_gis?q=gluten>`_, 
   `Salmonella <https://t.me/s/gpi_gis?q=Salmonella>`_,
   `Pfizer <https://t.me/s/gpi_gif?q=Pfizer>`_,
@@ -44,8 +48,8 @@ to receive information in convenient way like:
   `Anti-crisis shield <https://t.me/s/gpi_koronawirus?q=Anti-crisis+shield>`_,
   etc.
 
-Finally, this solution is dedicated for everyone who wants to give yourself a 
-break from Facebook, Twitter, TV or radio.
+Finally, this solution is dedicated to everyone who wants to give themselves a 
+break from Facebook, Twitter, TV or the radio.
 
 How it works
 ------------
@@ -64,7 +68,7 @@ How to subscribe
    
     Supported Operating Systems: Android, iOS, iPadOS, Windows, macOS, Linux.
 
-2. Register following instructions on screen.
+2. Register by following the on-screen instructions.
 3. Subscribe to the |GPI| Telegram Channels.
 
   .. note::

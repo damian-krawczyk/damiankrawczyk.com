@@ -10,10 +10,10 @@ projects
    :target: ./gov-pl-info
 
 **GPI - GOV PL Info**  is a project initiated on April 1, 2021. The main 
-goal of this project is to provide informations send by Polish Government 
-in a form of mobile notifications, by use of 
+goal of this project is to provide information being sent by Polish Government 
+in a form of mobile notifications, by using 
 `Telegram Channels <https://telegram.org/tour/channels>`_
-, in both polish and english languages.
+, in both Polish and English.
 
 :doc:`read more <gov-pl-info/index>`
 

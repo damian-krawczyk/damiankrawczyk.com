@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Damian Krawczyk \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-25 08:38+0200\n"
+"POT-Creation-Date: 2021-05-05 22:30+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -61,7 +61,7 @@ msgstr "`Ostrzeżenia <https://www.gov.pl/web/gis/ostrzezenia>`_"
 #: c9e9bad3ad414011b344bab101333ec1
 msgid ""
 "Information from `Warnings <https://www.gov.pl/web/gis/ostrzezenia>`_  "
-"(*pl. Ostrzeżenia*) thread are being send to Telegram Channel pointed "
+"(*pl. Ostrzeżenia*) thread are being sent to the Telegram Channel listed "
 "below."
 msgstr ""
 "Informacje z wątku `Ostrzeżenia "
@@ -75,14 +75,11 @@ msgstr ""
 "`KLIKNIJ ABY SUBSKRYBOWAĆ <https://t.me/gpi_gis>`_ Kanał |GPI| |GIS| w "
 "aplikacji Telegram"
 
-#: ../../projects/gov-pl-info/channels/index.rst:40
-#: c057f36b29794a488827117ac6440c34
-msgid "|gpi_gis_subscribers|"
-msgstr ""
-
 #: ../../projects/gov-pl-info/channels/index.rst:44
 #: f249f9bd610a4b5db8070d6a3304008f
-msgid "Click `Preview Channel <https://t.me/s/gpi_gis>`_ to see Channel content."
+msgid ""
+"Click `Preview Channel <https://t.me/s/gpi_gis>`_ to see the Channel "
+"content."
 msgstr ""
 "Kliknij w `Preview Channel <https://t.me/s/gpi_gis>`_, aby zobaczyć "
 "zawartość Kanału."
@@ -125,7 +122,7 @@ msgstr "`Komunikaty <https://www.gov.pl/web/gif/komunikaty>`_"
 #: 38473e4abca940868a54b71a48aa2c67
 msgid ""
 "Information from `Messages <https://www.gov.pl/web/gif/wiadomosci>`_ "
-"(*pl. Wiadomości*) thread are being send to Telegram Channel pointed "
+"(*pl. Wiadomości*) thread are being sent to the Telegram Channel listed "
 "below."
 msgstr ""
 "Informacje z wątku `Wiadomości <https://www.gov.pl/web/gif/wiadomosci>`_ "
@@ -138,14 +135,11 @@ msgstr ""
 "`KLIKNIJ ABY SUBSKRYBOWAĆ <https://t.me/gpi_gif>`_ Kanał |GPI| |GIF| w "
 "aplikacji Telegram"
 
-#: ../../projects/gov-pl-info/channels/index.rst:70
-#: 1c88bac9f4364100ae3a878d655f755f
-msgid "|gpi_gif_subscribers|"
-msgstr ""
-
 #: ../../projects/gov-pl-info/channels/index.rst:74
 #: 180ce9da0c0e4c808c7d4203e01288d6
-msgid "Click `Preview Channel <https://t.me/s/gpi_gif>`_ to see Channel content."
+msgid ""
+"Click `Preview Channel <https://t.me/s/gpi_gif>`_ to see the Channel "
+"content."
 msgstr ""
 "Kliknij w `Preview Channel <https://t.me/s/gpi_gif>`_, aby zobaczyć "
 "zawartość Kanału."
@@ -181,8 +175,8 @@ msgstr "`Komunikaty <https://www.gov.pl/web/koronawirus/wiadomosci>`_"
 #: ../../projects/gov-pl-info/channels/index.rst:87
 #: bc4bee3828ef47bda165d6adabce1598
 msgid ""
-"Information from these threads are being send to Telegram Channel pointed"
-" below."
+"Information from these threads are being sent to the Telegram Channel "
+"listed below."
 msgstr ""
 "Informacje z tych wątków są przesyłane na Kanał aplikacji Telegram "
 "wskazany poniżej."
@@ -196,16 +190,11 @@ msgstr ""
 "`KLIKNIJ ABY SUBSKRYBOWAĆ <https://t.me/gpi_koronawirus>`_ Kanał |GPI| "
 "Koronawirus w aplikacji Telegram"
 
-#: ../../projects/gov-pl-info/channels/index.rst:98
-#: 0517f761a99f4fea936b86a1da68553d
-msgid "|gpi_koronawirus_subscribers|"
-msgstr ""
-
 #: ../../projects/gov-pl-info/channels/index.rst:102
 #: 28e210896fd443138b8bbab2ddb0dedf
 msgid ""
-"Click `Preview Channel <https://t.me/s/gpi_koronawirus>`_ to see Channel "
-"content."
+"Click `Preview Channel <https://t.me/s/gpi_koronawirus>`_ to see the "
+"Channel content."
 msgstr ""
 "Kliknij w `Preview Channel <https://t.me/s/gpi_koronawirus>`_, aby "
 "zobaczyć zawartość Kanału."
@@ -218,9 +207,10 @@ msgstr ""
 #: ../../projects/gov-pl-info/channels/index.rst:109
 #: a3b94766fe5f4577b3ce7c705eed0ce7
 msgid ""
-"This Telegram Channel provide information of the lack of articles for a "
-"given day. I encourage you to subscribe this Channel and mute it because "
-"notifications will appear there every day in the absence of articles."
+"This Telegram Channel provides information on the lack of articles for a "
+"given day. I encourage you to subscribe to this Channel and mute it "
+"because notifications will appear there every day in the absence of "
+"articles."
 msgstr ""
 "Ten Kanał w aplikacji Telegram dostarcza informacje o braku artykułów na "
 "dany dzień. Zachęcam do subskrypcji tego Kanału oraz jego wyciszenia "
@@ -236,16 +226,11 @@ msgstr ""
 "`KLIKNIJ ABY SUBSKRYBOWAĆ <https://t.me/gpi_health_check>`_ Kanał |GPI| "
 "Health Check w aplikacji Telegram"
 
-#: ../../projects/gov-pl-info/channels/index.rst:121
-#: 45b73a66f3e3431180e6b7c43c7b0bd9
-msgid "|gpi_health_check_subscribers|"
-msgstr ""
-
 #: ../../projects/gov-pl-info/channels/index.rst:125
 #: e1ce7b2664404efd863f29999327228e
 msgid ""
-"Click `Preview Channel <https://t.me/s/gpi_health_check>`_ to see Channel"
-" content."
+"Click `Preview Channel <https://t.me/s/gpi_health_check>`_ to see the "
+"Channel content."
 msgstr ""
 "Kliknij w `Preview Channel <https://t.me/s/gpi_health_check>`_, aby "
 "zobaczyć zawartość Kanału."

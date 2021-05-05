@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Damian Krawczyk \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-25 19:55+0200\n"
+"POT-Creation-Date: 2021-05-05 21:30+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -51,31 +51,34 @@ msgstr "Dla kogo"
 
 #: ../../projects/gov-pl-info/index.rst:22 0974966874bb4625b7b94699c341e7cd
 msgid ""
-"This solution is dedicated **for everyone who cares about their health** "
-"and wants to receive information about:"
+"This solution is dedicated **to everyone who cares about their health** "
+"and wants to receive information such as the following:"
 msgstr ""
 "To rozwiązanie jest dedykowane **dla każdego kto dba o swoje zdrowie** i "
-"chce otrzymywać informacje o:"
+"chce otrzymywać takie informacje jak:"
 
-#: ../../projects/gov-pl-info/index.rst:25 d3895f6dfe3e49a0a85d6b13fa74b518
+#: ../../projects/gov-pl-info/index.rst:25 f985f216ee65463dbca7656378000a34
 msgid ""
-"|MSI| - Main Sanitary Inspectorate in Poland warnings about **food "
-"products and everyday products withdrawn** from sale in Poland due to "
-"different reasons,"
+"**warnings about food products and everyday products recall** from sale "
+"in Poland due to varying health and safety related reasons published by "
+"Main Sanitary Inspectorate in Poland (|MSI| pl. |GIS|),"
 msgstr ""
-"ostrzeżeniach wysyłanych przez |GIS| - Główny Inspektorat Sanitarny w "
-"Polsce o **produktach spożywczych oraz produktach codziennego użytku "
-"wycofanych** ze sprzedaży w Polsce z różnych powodów,"
+"**ostrzeżenia o produktach spożywczych oraz produktach codziennego użytku "
+"wycofanych ze sprzedaży** w Polsce z różnych powodów związanych ze zdrowiem "
+"i bezpieczeństwem obublikowane przez Główny Inspektorat Sanitarny w Polsce "
+"(|GIS|),"
 
-#: ../../projects/gov-pl-info/index.rst:27 cf2a1fd64ea841e8b3790efb7a214112
 msgid ""
-"|MPI| - Main Pharmaceutical Inspectorate in Poland messages about "
-"**medicines withdrawn** from sale in Poland due to different reasons,"
+"**messages about medicines recall** from sale in Poland due to varying "
+"health and safety reasons published by Main Pharmaceutical Inspectorate "
+"in Poland (|MPI| pl. |GIF|)"
 msgstr ""
-"ostrzeżeniach wysyłanych przez |GIF| - Główny Inspektorat Farmaceutyczny "
-"w Polsce o **lekach wycofanych** ze sprzedaży w Polsce z różnych powodów,"
+"**ostrzeżenia o lekach "
+"wycofanych ze sprzedaży** w Polsce z różnych powodów związanych ze zdrowiem "
+"i bezpieczeństwem obublikowane przez Główny Inspektorat Farmaceutyczny w Polsce "
+"(|GIF|),"
 
-#: ../../projects/gov-pl-info/index.rst:29 73763565f38c4bd382c148951a2b0c2b
+#: ../../projects/gov-pl-info/index.rst:31 73763565f38c4bd382c148951a2b0c2b
 msgid ""
 "Polish Government announcements and **actions regarding the coronavirus**"
 " / COVID-19."
@@ -83,68 +86,69 @@ msgstr ""
 "komunikatach i **działaniach Rządu Polski dotyczących koronawirusa** / "
 "COVID-19."
 
-#: ../../projects/gov-pl-info/index.rst:31 eefb43dade48475098e622a04f18e2bb
+#: ../../projects/gov-pl-info/index.rst:34 0974966874bb4625b7b94699c341e7cd
 msgid ""
-"This solution is dedicated **for everyone who cares about their time** "
-"and wants to receive information in convenient way like:"
+"This solution is dedicated **to everyone who cares about their time** and"
+" wants to conveniently receive:"
 msgstr ""
 "To rozwiązanie jest dedykowane **dla każdego kto dba o swój czas** i chce"
-" otrzymywać informacje w wygodny sposób:"
+" otrzymywać w wygodny sposób:"
 
-#: ../../projects/gov-pl-info/index.rst:34 20c63fae51624a8cba0b2ce855fe3d5d
-msgid "notifications directly on smartphone, tablet or computer,"
+#: ../../projects/gov-pl-info/index.rst:37 20c63fae51624a8cba0b2ce855fe3d5d
+msgid "notifications directly to your smartphone, tablet or computer,"
 msgstr "powiadomienia bezpośrednio na smartfon, tablet lub komputer,"
 
-#: ../../projects/gov-pl-info/index.rst:35 0b67e3ba6aab470dab56fc8dc93eddbf
-msgid "notifications in English and Polish which are easily to forward,"
-msgstr ""
-"powiadomienia w języku angielskim i języku polskim, które można w prosty "
-"sposób przekazać dalej,"
+#: ../../projects/gov-pl-info/index.rst:38 0b67e3ba6aab470dab56fc8dc93eddbf
+msgid "notifications in English and Polish,"
+msgstr "powiadomienia w języku angielskim i języku polskim,"
 
-#: ../../projects/gov-pl-info/index.rst:36 6bc78906c57244339ebc64fc5b0e283f
-msgid "information directly from source (`gov.pl <https://www.gov.pl>`_),"
+#: ../../projects/gov-pl-info/index.rst:39 d236a261a1c44762a6f644bc30b1164f
+msgid "easy-to-forward notifications,"
+msgstr "powiadomienia, które można w prosty sposób przekazać dalej,"
+
+#: ../../projects/gov-pl-info/index.rst:40 6bc78906c57244339ebc64fc5b0e283f
+msgid "information directly from the source (`gov.pl <https://www.gov.pl>`_),"
 msgstr "informacje bezpośrednio ze źródła (`gov.pl <https://www.gov.pl>`_),"
 
-#: ../../projects/gov-pl-info/index.rst:37 98df0aa3202848cea40fb80b0a711d7a
-msgid "information without advertisements,"
-msgstr "informacje bez reklam,"
+#: ../../projects/gov-pl-info/index.rst:41 98df0aa3202848cea40fb80b0a711d7a
+msgid "information without distracting advertisements,"
+msgstr "informacje bez reklam rozpraszających uwagę,"
 
-#: ../../projects/gov-pl-info/index.rst:38 e3b009a8e1d54558992a5eb34b10bf3f
+#: ../../projects/gov-pl-info/index.rst:42 e3b009a8e1d54558992a5eb34b10bf3f
 msgid ""
-"instant search of the message you're looking for, even among millions, "
-"e.g. `gluten <https://t.me/s/gpi_gis?q=gluten>`_, `Salmonella "
+"an instant search of the message you're looking for, even among millions,"
+" e.g. `gluten <https://t.me/s/gpi_gis?q=gluten>`_, `Salmonella "
 "<https://t.me/s/gpi_gis?q=Salmonella>`_, `Pfizer "
 "<https://t.me/s/gpi_gif?q=Pfizer>`_, `Janssen "
 "<https://t.me/s/gpi_gif?q=Janssen>`_, `AstraZeneca "
 "<https://t.me/s/gpi_gif?q=AstraZeneca>`_, `Anti-crisis shield "
 "<https://t.me/s/gpi_koronawirus?q=Anti-crisis+shield>`_, etc."
 msgstr ""
-"błyskawiczne wyszukiwanie wiadomości, której "
-"szukasz, nawet wśród milionów, "
-"np. `gluten <https://t.me/s/gpi_gis?q=gluten>`_, `Salmonella "
+"błyskawiczne wyszukiwanie wiadomości, której szukasz, nawet wśród "
+"milionów, np. `gluten <https://t.me/s/gpi_gis?q=gluten>`_, `Salmonella "
 "<https://t.me/s/gpi_gis?q=Salmonella>`_, `Pfizer "
 "<https://t.me/s/gpi_gif?q=Pfizer>`_, `Janssen "
 "<https://t.me/s/gpi_gif?q=Janssen>`_, `AstraZeneca "
 "<https://t.me/s/gpi_gif?q=AstraZeneca>`_, `Tarcza antykryzysowa "
 "<https://t.me/s/gpi_koronawirus?q=Tarcza+antykryzysowa>`_, itd."
 
-#: ../../projects/gov-pl-info/index.rst:47 77e9ace84f9f4d7c9c90ea38e9e6631b
+#: ../../projects/gov-pl-info/index.rst:51 77e9ace84f9f4d7c9c90ea38e9e6631b
 msgid ""
-"Finally, this solution is dedicated for everyone who wants to give "
-"yourself a break from Facebook, Twitter, TV or radio."
+"Finally, this solution is dedicated to everyone who wants to give "
+"themselves a break from Facebook, Twitter, TV or the radio."
 msgstr ""
 "Jak i również dla każdego kto chce dać sobie chwilę odpoczynku od takich "
 "źródeł informacji jak Facebook, Twitter, TV czy radio."
 
-#: ../../projects/gov-pl-info/index.rst:51 a857d5fe9e2c4b3287bcd9fcc7b4ddd5
+#: ../../projects/gov-pl-info/index.rst:55 a857d5fe9e2c4b3287bcd9fcc7b4ddd5
 msgid "How it works"
 msgstr "Jak to działa"
 
-#: ../../projects/gov-pl-info/index.rst:53 5df399c8a9274da8a89e62a3bf34bf0a
+#: ../../projects/gov-pl-info/index.rst:57 5df399c8a9274da8a89e62a3bf34bf0a
 msgid "Current implementation of the solution works as follows:"
 msgstr "Aktualna implementacja tego rozwiązania działa w następujący sposób:"
 
-#: ../../projects/gov-pl-info/index.rst:55 2096397b869643c69c6fcd1631363914
+#: ../../projects/gov-pl-info/index.rst:59 2096397b869643c69c6fcd1631363914
 msgid ""
 "Every day after midnight, content is being downloaded from `gov.pl "
 "<https://www.gov.pl>`_ websites."
@@ -152,7 +156,7 @@ msgstr ""
 "Codziennie po północy pobierana jest zawartość stron `gov.pl "
 "<https://www.gov.pl>`_."
 
-#: ../../projects/gov-pl-info/index.rst:56 28d977411cc747eda7fbe3a5b0ce3659
+#: ../../projects/gov-pl-info/index.rst:60 28d977411cc747eda7fbe3a5b0ce3659
 msgid ""
 "If any articles were published on them on the previous day, you will "
 "receive a notification in the Telegram application on your smartphone, "
@@ -162,11 +166,11 @@ msgstr ""
 " powiadomienie w aplikacji Telegram na swoim smartfonie, tablecie lub "
 "komputerze. "
 
-#: ../../projects/gov-pl-info/index.rst:61 6f66afb6c4064f3db5e79f128a65de15
+#: ../../projects/gov-pl-info/index.rst:65 6f66afb6c4064f3db5e79f128a65de15
 msgid "How to subscribe"
 msgstr "Jak subskrybować"
 
-#: ../../projects/gov-pl-info/index.rst:63 56afac7c36bc44cda9d04aa8391d7d49
+#: ../../projects/gov-pl-info/index.rst:67 56afac7c36bc44cda9d04aa8391d7d49
 msgid ""
 "If you don't have Telegram yet, download it from here "
 "https://telegram.org/dl/."
@@ -174,17 +178,17 @@ msgstr ""
 "Jeżeli nie masz jeszcze aplikacji Telegram, pobierz ją stąd "
 "https://telegram.org/dl/."
 
-#: ../../projects/gov-pl-info/index.rst:65 cfbe396883e14dbd98c39a528204b18b
+#: ../../projects/gov-pl-info/index.rst:69 cfbe396883e14dbd98c39a528204b18b
 msgid "Supported Operating Systems: Android, iOS, iPadOS, Windows, macOS, Linux."
 msgstr "Wspierane Systemy Operacyjne: Android, iOS, iPadOS, Windows, macOS, Linux."
 
-#: ../../projects/gov-pl-info/index.rst:67 456956305d344de3a87dabcd5cf2909e
-msgid "Register following instructions on screen."
+#: ../../projects/gov-pl-info/index.rst:71 456956305d344de3a87dabcd5cf2909e
+msgid "Register by following the on-screen instructions."
 msgstr ""
 "Zarejestruj się postępując zgodnie z instrukcjami wyświetlanymi na "
 "ekranie."
 
-#: ../../projects/gov-pl-info/index.rst:68 acf77160d0e44a77a43acdb99379fb34
+#: ../../projects/gov-pl-info/index.rst:72 acf77160d0e44a77a43acdb99379fb34
 msgid "Subscribe to the |GPI| Telegram Channels."
 msgstr "Subskrybuj Kanały |GPI| w aplikacji Telegram."
 
@@ -206,11 +210,11 @@ msgstr ""
 "Przeczytaj więcej na ten temat tutaj (ang.) https://telegram.org/faq#q"
 "-who-can-see-my-phone-number"
 
-#: ../../projects/gov-pl-info/index.rst:76 4e15a9d20b574f77889e355ac8363eab
+#: ../../projects/gov-pl-info/index.rst:80 4e15a9d20b574f77889e355ac8363eab
 msgid "Channel list"
 msgstr "Lista kanałów"
 
-#: ../../projects/gov-pl-info/index.rst:79 63813b3deac34deea824c69a5ceb534f
+#: ../../projects/gov-pl-info/index.rst:83 63813b3deac34deea824c69a5ceb534f
 msgid ""
 "Check :doc:`THE LIST OF AVAILABLE GPI TELEGRAM CHANNELS <channels/index>`"
 " and subscribe to the most interesting ones for you."
@@ -218,15 +222,15 @@ msgstr ""
 "Sprawdź :doc:`LISTĘ DOSTĘPNYCH KANAŁÓW GPI W APLIKACJI TELEGRAM "
 "<channels/index>` i zasubskrybuj ten, który najbardziej Cię interesuje."
 
-#: ../../projects/gov-pl-info/index.rst:83 fcc1d9aa9aaa4e659097bda5dd1e101d
+#: ../../projects/gov-pl-info/index.rst:87 fcc1d9aa9aaa4e659097bda5dd1e101d
 msgid "Technology stack"
 msgstr "Stack technologiczny"
 
-#: ../../projects/gov-pl-info/index.rst:86 a7ab5281d56447a4b0d168335e3c0f8a
+#: ../../projects/gov-pl-info/index.rst:90 a7ab5281d56447a4b0d168335e3c0f8a
 msgid "python"
 msgstr ""
 
-#: ../../projects/gov-pl-info/index.rst:94 3f74bb40583e4a8484c593ca4c12aebc
+#: ../../projects/gov-pl-info/index.rst:98 3f74bb40583e4a8484c593ca4c12aebc
 msgid ""
 "Python has been used here to write the code to download the data from the"
 " selected `gov.pl <https://www.gov.pl>`_ subpages, parse it, extract "
@@ -240,19 +244,19 @@ msgstr ""
 "wreszcie przygotowania ich do wysłania do utworzonych wcześniej Kanałów w"
 " aplikacji Telegram."
 
-#: ../../projects/gov-pl-info/index.rst:103 ac9de80ec6e34128bc4e0f3ee9ed9c87
+#: ../../projects/gov-pl-info/index.rst:107 ac9de80ec6e34128bc4e0f3ee9ed9c87
 msgid "|GPI| source code"
 msgstr "|GPI| kod źródłowy"
 
-#: ../../projects/gov-pl-info/index.rst:104 dde23438b89f44e7ab411232c5f180dc
+#: ../../projects/gov-pl-info/index.rst:108 dde23438b89f44e7ab411232c5f180dc
 msgid "https://github.com/damian-krawczyk/gov-pl-info"
 msgstr ""
 
-#: ../../projects/gov-pl-info/index.rst:107 165deae390c24284b6e30fc147431bb6
+#: ../../projects/gov-pl-info/index.rst:111 165deae390c24284b6e30fc147431bb6
 msgid "GitHub Actions"
 msgstr ""
 
-#: ../../projects/gov-pl-info/index.rst:115 c59509fe3d464b4d91179e89acf92393
+#: ../../projects/gov-pl-info/index.rst:119 c59509fe3d464b4d91179e89acf92393
 msgid ""
 "GitHub Actions have been used to define workflows for selected `gov.pl "
 "<https://www.gov.pl>`_ threads and dedicated Telegram Channels. Each "
@@ -264,19 +268,19 @@ msgstr ""
 "Kanałów w aplikacji Telegram. Każde workflow uruchamia się po północy "
 "|CET| lub |CEST|, aby pobrać artykuły udostępnione poprzedniego dnia."
 
-#: ../../projects/gov-pl-info/index.rst:124 f0b5affde7c84ad98abb28cb027c1c8a
+#: ../../projects/gov-pl-info/index.rst:128 f0b5affde7c84ad98abb28cb027c1c8a
 msgid "|GPI| workflows"
 msgstr ""
 
-#: ../../projects/gov-pl-info/index.rst:125 44c9366d6b2e4e41a3aa1ee81e8c0bac
+#: ../../projects/gov-pl-info/index.rst:129 44c9366d6b2e4e41a3aa1ee81e8c0bac
 msgid "https://github.com/damian-krawczyk/gov-pl-info/actions"
 msgstr ""
 
-#: ../../projects/gov-pl-info/index.rst:128 74b14bd6e1bc4241b7d377d9a6b21077
+#: ../../projects/gov-pl-info/index.rst:132 74b14bd6e1bc4241b7d377d9a6b21077
 msgid "Telegram"
 msgstr ""
 
-#: ../../projects/gov-pl-info/index.rst:136 da96fd89752948fba9226e0a747a2854
+#: ../../projects/gov-pl-info/index.rst:140 da96fd89752948fba9226e0a747a2854
 msgid ""
 "Here, Telegram is the main medium to provide notifications about articles"
 " extracted from selected `gov.pl <https://www.gov.pl>`_ subpages. Thanks "
@@ -295,11 +299,11 @@ msgstr ""
 "piramida/>`_). Telegram wspiera następujące Systemy Operacyjne: Android, "
 "iOS, iPadOS, Windows, macOS, Linux."
 
-#: ../../projects/gov-pl-info/index.rst:145 872e9b0a23c3428ea50c9c9fe064c4b7
+#: ../../projects/gov-pl-info/index.rst:149 872e9b0a23c3428ea50c9c9fe064c4b7
 msgid "Google Translate"
 msgstr "Translator Google"
 
-#: ../../projects/gov-pl-info/index.rst:153 27e9aee5be634e3c83f088bcb2aa7c78
+#: ../../projects/gov-pl-info/index.rst:157 27e9aee5be634e3c83f088bcb2aa7c78
 msgid ""
 "Google Translate is used to translate notifications from Polish to "
 "English. Notifications containing information in both languages are being"
@@ -309,29 +313,29 @@ msgstr ""
 " polskiego na język angielski. Powiadomienie zawierające informacje w obu"
 " językach jest wysyłane na dedykowany Kanał w aplikacji Telegram."
 
-#: ../../projects/gov-pl-info/index.rst:158 6ec017dec8bb4ac4b0701fc772b5d496
+#: ../../projects/gov-pl-info/index.rst:162 6ec017dec8bb4ac4b0701fc772b5d496
 msgid "Contact"
 msgstr "Kontakt"
 
-#: ../../projects/gov-pl-info/index.rst:161 0c7e9e153d474830a8364bcbf36690b0
+#: ../../projects/gov-pl-info/index.rst:165 0c7e9e153d474830a8364bcbf36690b0
 msgid "Have you ever faced any problem with this solution?"
 msgstr "Napotkałeś jakikolwiek problem korzystając z tego rozwiązania?"
 
-#: ../../projects/gov-pl-info/index.rst:163 6a381bf2ae7245eaaeef40bf02979094
+#: ../../projects/gov-pl-info/index.rst:167 6a381bf2ae7245eaaeef40bf02979094
 msgid "Have you noticed any errors?"
 msgstr "Zauważyłeś błąd?"
 
-#: ../../projects/gov-pl-info/index.rst:165 acc0542f0517425a8bbc7f3dd18bb292
+#: ../../projects/gov-pl-info/index.rst:169 acc0542f0517425a8bbc7f3dd18bb292
 msgid "Would you like me to create similar solution suited to your exact needs?"
 msgstr ""
 "Chciałbyś, żebym stworzył dla Ciebie podobne rozwiązanie doposawane do "
 "Twoich potrzeb?"
 
-#: ../../projects/gov-pl-info/index.rst:167 9589f25eeac24dc58d50f6f9cf4375cc
+#: ../../projects/gov-pl-info/index.rst:171 9589f25eeac24dc58d50f6f9cf4375cc
 msgid "**Let me know about it!**"
 msgstr "**Daj mi o tym znać!**"
 
-#: ../../projects/gov-pl-info/index.rst:169 8f9f291f8de84455936fc47875cef025
+#: ../../projects/gov-pl-info/index.rst:173 8f9f291f8de84455936fc47875cef025
 msgid ":doc:`CONTACT DETAILS <../../contact/index>`"
 msgstr ":doc:`SZCZEGÓŁY KONTAKTU <../../contact/index>`"
 

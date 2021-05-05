@@ -27,7 +27,7 @@ provides information on its main page https://www.gov.pl/web/gis via threads:
 - `Warnings <https://www.gov.pl/web/gis/ostrzezenia>`_  (*pl. Ostrzeżenia*)
 
 Information from `Warnings <https://www.gov.pl/web/gis/ostrzezenia>`_  (*pl. Ostrzeżenia*) 
-thread are being send to Telegram Channel pointed below.
+thread are being sent to the Telegram Channel listed below.
 
 .. image:: https://telegram.org/img/t_logo.png
     :alt: GPI GIS Telegram Channel subscribe
@@ -37,11 +37,11 @@ thread are being send to Telegram Channel pointed below.
 
 `CLICK TO SUBSCRIBE <https://t.me/gpi_gis>`_ |GPI| |GIS| Telegram Channel
 
-|gpi_gis_subscribers|
+.. |gpi_gis_subscribers|
 
 .. tip::
 
-  Click `Preview Channel <https://t.me/s/gpi_gis>`_ to see Channel content.
+  Click `Preview Channel <https://t.me/s/gpi_gis>`_ to see the Channel content.
 
 ----
 
@@ -56,7 +56,7 @@ provides information on its main page https://www.gov.pl/web/gif via threads:
 - `Notifications <https://www.gov.pl/web/gif/komunikaty>`_  (*pl. Komunikaty*)
 
 Information from `Messages <https://www.gov.pl/web/gif/wiadomosci>`_ (*pl. Wiadomości*) 
-thread are being send to Telegram Channel pointed below.
+thread are being sent to the Telegram Channel listed below.
 
 
 .. image:: https://telegram.org/img/t_logo.png
@@ -67,11 +67,11 @@ thread are being send to Telegram Channel pointed below.
 
 `CLICK TO SUBSCRIBE <https://t.me/gpi_gif>`_ |GPI| |GIF| Telegram Channel
 
-|gpi_gif_subscribers|
+.. |gpi_gif_subscribers|
 
 .. tip::
 
-  Click `Preview Channel <https://t.me/s/gpi_gif>`_ to see Channel content.
+  Click `Preview Channel <https://t.me/s/gpi_gif>`_ to see the Channel content.
 
 ----
 
@@ -84,7 +84,7 @@ dedicated page https://www.gov.pl/web/koronawirus via threads:
 - `Government actions <https://www.gov.pl/web/koronawirus/dzialania-rzadu>`_ (*pl. Działania rządu*)
 - `Notifications <https://www.gov.pl/web/koronawirus/wiadomosci>`_ (*pl. Komunikaty*)
 
-Information from these threads are being send to Telegram Channel pointed below.
+Information from these threads are being sent to the Telegram Channel listed below.
 
 
 .. image:: https://telegram.org/img/t_logo.png
@@ -95,19 +95,19 @@ Information from these threads are being send to Telegram Channel pointed below.
 
 `CLICK TO SUBSCRIBE <https://t.me/gpi_koronawirus>`_ |GPI| Coronavirus Telegram Channel
 
-|gpi_koronawirus_subscribers|
+.. |gpi_koronawirus_subscribers|
 
 .. tip::
 
-  Click `Preview Channel <https://t.me/s/gpi_koronawirus>`_ to see Channel content.
+  Click `Preview Channel <https://t.me/s/gpi_koronawirus>`_ to see the Channel content.
 
 ----
 
 GPI Health Check Channel
 ------------------------
 
-This Telegram Channel provide information of the lack of articles for a given day. 
-I encourage you to subscribe this Channel and mute it because notifications will 
+This Telegram Channel provides information on the lack of articles for a given day. 
+I encourage you to subscribe to this Channel and mute it because notifications will 
 appear there every day in the absence of articles.
 
 .. image:: https://telegram.org/img/t_logo.png
@@ -118,11 +118,11 @@ appear there every day in the absence of articles.
 
 `CLICK TO SUBSCRIBE <https://t.me/gpi_health_check>`_ |GPI| Health Check Telegram Channel
 
-|gpi_health_check_subscribers|
+.. |gpi_health_check_subscribers|
 
 .. tip::
 
-  Click `Preview Channel <https://t.me/s/gpi_health_check>`_ to see Channel content.
+  Click `Preview Channel <https://t.me/s/gpi_health_check>`_ to see the Channel content.
 
 .. tip::
 
