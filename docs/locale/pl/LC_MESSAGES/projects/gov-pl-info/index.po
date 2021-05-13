@@ -65,7 +65,7 @@ msgid ""
 msgstr ""
 "**ostrzeżenia o produktach spożywczych oraz produktach codziennego użytku "
 "wycofanych ze sprzedaży** w Polsce z różnych powodów związanych ze zdrowiem "
-"i bezpieczeństwem obublikowane przez Główny Inspektorat Sanitarny w Polsce "
+"i bezpieczeństwem opublikowane przez Główny Inspektorat Sanitarny w Polsce "
 "(|GIS|),"
 
 msgid ""
@@ -75,7 +75,7 @@ msgid ""
 msgstr ""
 "**ostrzeżenia o lekach "
 "wycofanych ze sprzedaży** w Polsce z różnych powodów związanych ze zdrowiem "
-"i bezpieczeństwem obublikowane przez Główny Inspektorat Farmaceutyczny w Polsce "
+"i bezpieczeństwem opublikowane przez Główny Inspektorat Farmaceutyczny w Polsce "
 "(|GIF|),"
 
 #: ../../projects/gov-pl-info/index.rst:31 73763565f38c4bd382c148951a2b0c2b
