@@ -8,7 +8,7 @@ about me
 
 .. important::
    If you think that `my idea <https://futureu.europa.eu/processes/Digital/f/15/proposals/3961>`_ 
-   for 🇪🇺 |EU| Digital transformation is worth of your vote, login and do it. 👍🏻
+   for 🇪🇺 |EU| Digital transformation is worth your vote, login and do it. 👍🏻
 
 I'm an enthusiast of **automation** in both my private and professional life. The main reason for that is TIME - 
 one of the most precious thing we have. Contemporary technology lets us design and implement user-friendly 
