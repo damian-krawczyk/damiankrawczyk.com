@@ -82,6 +82,8 @@ gettext_uuid = True
 rst_prolog =  sphinx_fontawesome.prolog + """
 .. General:
 .. |me| replace:: :abbr:`me (Damian Krawczyk)`
+.. |EU| replace:: :abbr:`EU (Europen Union)`
+.. |UE| replace:: :abbr:`UE (Unia Europejska)`
 
 .. |GUI| replace:: :abbr:`GUI (Graphical User Interface)`
 .. |csv| replace:: :abbr:`csv (comma-separated value)`
