@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Damian Krawczyk \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-19 17:54+0200\n"
+"POT-Creation-Date: 2021-05-14 19:22+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,7 +22,17 @@ msgstr ""
 msgid "about me"
 msgstr "o mnie"
 
-#: ../../index.rst:9 b76b2f7fe1604b24a25ed4586e173194
+#: ../../index.rst:10 3f8018e9da1e4112992041033f6b6aea
+msgid ""
+"If you think that `my idea "
+"<https://futureu.europa.eu/processes/Digital/f/15/proposals/3961>`_ for "
+"🇪🇺 |EU| Digital transformation is worth of your vote, login and do it. 👍🏻"
+msgstr ""
+"Jeżeli uważasz, że `mój pomysł "
+"<https://futureu.europa.eu/processes/Digital/f/15/proposals/3961?locale=pl>`_ na "
+"Transformację cyfrową |UE| 🇪🇺 jest warty Twojego głosu, zaloguj się i zagłosuj. 👍🏻"
+
+#: ../../index.rst:13 b76b2f7fe1604b24a25ed4586e173194
 msgid ""
 "I'm an enthusiast of **automation** in both my private and professional "
 "life. The main reason for that is TIME - one of the most precious thing "
@@ -54,7 +64,7 @@ msgstr ""
 "rozwój procesu **Vulnerability Assessment** [2]_ przez większość mojej "
 "kariery zawodowej."
 
-#: ../../index.rst:18 fa9f5dbc94a64ac8a83801c56fb300d9
+#: ../../index.rst:22 fa9f5dbc94a64ac8a83801c56fb300d9
 msgid ""
 "I'm a promoter of open way of working. From coding point of view it means"
 " that whenever possible I'm trying to release my solutions as **Open "
@@ -68,39 +78,39 @@ msgstr ""
 "nadzieję, że projekty, którymi się tutaj podzielę okażą się przydatne "
 "również dla Ciebie."
 
-#: ../../index.rst:23 0694dced052e46649b3e48035aaaf550
+#: ../../index.rst:27 0694dced052e46649b3e48035aaaf550
 msgid "projects"
 msgstr "projekty"
 
-#: ../../index.rst:24 926f6d555813425987eeec0d03639a5d
+#: ../../index.rst:28 926f6d555813425987eeec0d03639a5d
 msgid "Read more about my :doc:`/projects/index`."
 msgstr "Sprawdź moje :doc:`/projects/index`."
 
-#: ../../index.rst:28 b42050986c604434970eb89ca9a9d0cf
+#: ../../index.rst:32 b42050986c604434970eb89ca9a9d0cf
 msgid "contact"
 msgstr "kontakt"
 
-#: ../../index.rst:29 750eda8fccbd41fd94bcfa308e3454df
+#: ../../index.rst:33 750eda8fccbd41fd94bcfa308e3454df
 msgid "Feel free to :doc:`/contact/index` with me."
 msgstr "Tutaj :doc:`/contact/index` do mnie."
 
-#: ../../index.rst:34 d05ecade4d004d138f177d10c05195d9
+#: ../../index.rst:38 d05ecade4d004d138f177d10c05195d9
 msgid "Footnotes"
 msgstr "Przypisy"
 
-#: ../../index.rst:35 613b0d8cad844b1eb5845509bf1eed3d
+#: ../../index.rst:39 613b0d8cad844b1eb5845509bf1eed3d
 msgid ":term:`Information Security`"
 msgstr ""
 
-#: ../../index.rst:36 74df9dfa41a64efab50224c98407f77b
+#: ../../index.rst:40 74df9dfa41a64efab50224c98407f77b
 msgid ":term:`Vulnerability Assessment`"
 msgstr ""
 
-#: ../../index.rst:37 a0a4feb74297436d84d0af26c035348b
+#: ../../index.rst:41 a0a4feb74297436d84d0af26c035348b
 msgid ":term:`Open Source`"
 msgstr ""
 
-#: ../../index.rst:38 254b18eda5924c629556837759e48a62
+#: ../../index.rst:42 254b18eda5924c629556837759e48a62
 msgid ":term:`Inner Source`"
 msgstr ""
 
