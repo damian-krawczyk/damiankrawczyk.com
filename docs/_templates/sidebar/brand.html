@@ -20,7 +20,7 @@ Hope your day's going well. :)
 <a class="sidebar-brand{% if logo %} centered{% endif %}" href="{{ pathto(master_doc) }}">
     {% block brand_content %}
     {%- if logo %}
-    <div class="sidebar-logo-container profile-pic">
+    <div class="sidebar-logo-container profile-pic" style="margin-top: 0px;">
     <img class="sidebar-logo" src="{{ pathto('_static/' + logo, 1) }}" alt="Logo"/>
     </div>
     {%- endif %}
