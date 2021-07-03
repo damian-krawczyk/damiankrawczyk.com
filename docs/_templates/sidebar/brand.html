@@ -11,6 +11,12 @@ documentation page.
 Hope your day's going well. :)
 
 -#}
+<div style="text-align: right; margin-right: 10px; margin-bottom: 0px;">
+    <p>
+      <a href="{{ pathto('en/latest/' + pagename) }}">en</a> / 
+      <a href="{{ pathto('pl/latest/' + pagename) }}">pl</a> 
+    </p>
+  </div>
 <a class="sidebar-brand{% if logo %} centered{% endif %}" href="{{ pathto(master_doc) }}">
     {% block brand_content %}
     {%- if logo %}
