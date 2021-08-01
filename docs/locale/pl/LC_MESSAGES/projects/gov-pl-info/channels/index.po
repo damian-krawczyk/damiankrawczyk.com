@@ -39,7 +39,6 @@ msgstr "Główny Inspektorat Sanitarny"
 
 #: ../../projects/gov-pl-info/channels/index.rst:23
 #: c68de71df24749a0bd099b2e9b5c0143
-#, fuzzy
 msgid ""
 "|MSI| - Main Sanitary Inspectorate in Poland (pl. |GIS| - Główny "
 "Inspektorat Sanitarny w Polsce) provides information on its main website "
@@ -123,7 +122,6 @@ msgstr "`Komunikaty <https://www.gov.pl/web/gif/komunikaty>`_"
 
 #: ../../projects/gov-pl-info/channels/index.rst:59
 #: 38473e4abca940868a54b71a48aa2c67
-#, fuzzy
 msgid ""
 "`Decisions <https://rdg.ezdrowie.gov.pl>`_ and information from `Messages"
 " <https://www.gov.pl/web/gif/wiadomosci>`_ (*pl. Wiadomości*) thread are "
@@ -156,7 +154,6 @@ msgstr "Koronawirus"
 
 #: ../../projects/gov-pl-info/channels/index.rst:83
 #: c6edbc93e37f4bee80a5b5d573fc47a1
-#, fuzzy
 msgid ""
 "Polish Government provides information about coronavirus on dedicated "
 "website https://www.gov.pl/web/koronawirus via threads:"
