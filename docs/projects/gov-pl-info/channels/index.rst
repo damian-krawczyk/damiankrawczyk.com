@@ -21,7 +21,7 @@ Main Sanitary Inspectorate
 --------------------------
 
 |MSI| - Main Sanitary Inspectorate in Poland (pl. |GIS| - Główny Inspektorat Sanitarny w Polsce) 
-provides information on its main page https://www.gov.pl/web/gis via threads: 
+provides information on its main website https://www.gov.pl/web/gis via threads: 
 
 - `Messages <https://www.gov.pl/web/gis/wiadomosci>`_ (*pl. Wiadomości*)
 - `Warnings <https://www.gov.pl/web/gis/ostrzezenia>`_  (*pl. Ostrzeżenia*)
@@ -49,13 +49,15 @@ Main Pharmaceutical Inspectorate
 --------------------------------
 
 |MPI| - Main Pharmaceutical Inspectorate in Poland (pl. |GIF| - Główny Inspektorat Farmaceutyczny w Polsce)
-provides information on its main page https://www.gov.pl/web/gif via threads: 
+provides decisions on RDG website https://rdg.ezdrowie.gov.pl and on its main 
+website https://www.gov.pl/web/gif via threads: 
 
 - `Messages <https://www.gov.pl/web/gif/wiadomosci>`_ (*pl. Wiadomości*)
 - `Interpretations <https://www.gov.pl/web/gif/interpretacje>`_ (*pl. Interpretacje*)
 - `Notifications <https://www.gov.pl/web/gif/komunikaty>`_  (*pl. Komunikaty*)
 
-Information from `Messages <https://www.gov.pl/web/gif/wiadomosci>`_ (*pl. Wiadomości*) 
+`Decisions <https://rdg.ezdrowie.gov.pl>`_ and information 
+from `Messages <https://www.gov.pl/web/gif/wiadomosci>`_ (*pl. Wiadomości*) 
 thread are being sent to the Telegram Channel listed below.
 
 
@@ -79,7 +81,7 @@ Coronavirus
 -----------
 
 Polish Government provides information about coronavirus on 
-dedicated page https://www.gov.pl/web/koronawirus via threads: 
+dedicated website https://www.gov.pl/web/koronawirus via threads: 
 
 - `Government actions <https://www.gov.pl/web/koronawirus/dzialania-rzadu>`_ (*pl. Działania rządu*)
 - `Notifications <https://www.gov.pl/web/koronawirus/wiadomosci>`_ (*pl. Komunikaty*)
